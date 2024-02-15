@@ -1,0 +1,14 @@
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\myEcho\myEcho\bin\Debug\net8.0\myEcho.exe
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\myEcho\myEcho\bin\Debug\net8.0\myEcho.deps.json
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\myEcho\myEcho\bin\Debug\net8.0\myEcho.runtimeconfig.json
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\myEcho\myEcho\bin\Debug\net8.0\myEcho.dll
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\myEcho\myEcho\bin\Debug\net8.0\myEcho.pdb
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\myEcho\myEcho\obj\Debug\net8.0\myEcho.GeneratedMSBuildEditorConfig.editorconfig
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\myEcho\myEcho\obj\Debug\net8.0\myEcho.AssemblyInfoInputs.cache
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\myEcho\myEcho\obj\Debug\net8.0\myEcho.AssemblyInfo.cs
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\myEcho\myEcho\obj\Debug\net8.0\myEcho.csproj.CoreCompileInputs.cache
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\myEcho\myEcho\obj\Debug\net8.0\myEcho.dll
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\myEcho\myEcho\obj\Debug\net8.0\refint\myEcho.dll
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\myEcho\myEcho\obj\Debug\net8.0\myEcho.pdb
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\myEcho\myEcho\obj\Debug\net8.0\myEcho.genruntimeconfig.cache
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\myEcho\myEcho\obj\Debug\net8.0\ref\myEcho.dll

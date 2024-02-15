@@ -1,0 +1,14 @@
+\\cwlfs\MeineDaten$\LuV-GS\cschwerdt\Documents\dev\Visual Studio Projekte\Ping CLI\Ping CLI\obj\Debug\net8.0\Ping CLI.GeneratedMSBuildEditorConfig.editorconfig
+\\cwlfs\MeineDaten$\LuV-GS\cschwerdt\Documents\dev\Visual Studio Projekte\Ping CLI\Ping CLI\obj\Debug\net8.0\Ping CLI.AssemblyInfoInputs.cache
+\\cwlfs\MeineDaten$\LuV-GS\cschwerdt\Documents\dev\Visual Studio Projekte\Ping CLI\Ping CLI\obj\Debug\net8.0\Ping CLI.AssemblyInfo.cs
+\\cwlfs\MeineDaten$\LuV-GS\cschwerdt\Documents\dev\Visual Studio Projekte\Ping CLI\Ping CLI\obj\Debug\net8.0\Ping CLI.csproj.CoreCompileInputs.cache
+\\cwlfs\MeineDaten$\LuV-GS\cschwerdt\Documents\dev\Visual Studio Projekte\Ping CLI\Ping CLI\obj\Debug\net8.0\Ping CLI.genruntimeconfig.cache
+\\cwlfs\MeineDaten$\LuV-GS\cschwerdt\Documents\dev\Visual Studio Projekte\Ping CLI\Ping CLI\bin\Debug\net8.0\PingCLI.exe
+\\cwlfs\MeineDaten$\LuV-GS\cschwerdt\Documents\dev\Visual Studio Projekte\Ping CLI\Ping CLI\bin\Debug\net8.0\PingCLI.deps.json
+\\cwlfs\MeineDaten$\LuV-GS\cschwerdt\Documents\dev\Visual Studio Projekte\Ping CLI\Ping CLI\bin\Debug\net8.0\PingCLI.runtimeconfig.json
+\\cwlfs\MeineDaten$\LuV-GS\cschwerdt\Documents\dev\Visual Studio Projekte\Ping CLI\Ping CLI\bin\Debug\net8.0\PingCLI.dll
+\\cwlfs\MeineDaten$\LuV-GS\cschwerdt\Documents\dev\Visual Studio Projekte\Ping CLI\Ping CLI\bin\Debug\net8.0\PingCLI.pdb
+\\cwlfs\MeineDaten$\LuV-GS\cschwerdt\Documents\dev\Visual Studio Projekte\Ping CLI\Ping CLI\obj\Debug\net8.0\PingCLI.dll
+\\cwlfs\MeineDaten$\LuV-GS\cschwerdt\Documents\dev\Visual Studio Projekte\Ping CLI\Ping CLI\obj\Debug\net8.0\refint\PingCLI.dll
+\\cwlfs\MeineDaten$\LuV-GS\cschwerdt\Documents\dev\Visual Studio Projekte\Ping CLI\Ping CLI\obj\Debug\net8.0\PingCLI.pdb
+\\cwlfs\MeineDaten$\LuV-GS\cschwerdt\Documents\dev\Visual Studio Projekte\Ping CLI\Ping CLI\obj\Debug\net8.0\ref\PingCLI.dll

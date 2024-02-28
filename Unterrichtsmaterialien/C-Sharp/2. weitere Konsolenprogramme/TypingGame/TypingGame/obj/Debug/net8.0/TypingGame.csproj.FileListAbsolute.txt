@@ -1,0 +1,15 @@
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\TypingGame\TypingGame\bin\Debug\net8.0\TypingGame.exe
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\TypingGame\TypingGame\bin\Debug\net8.0\TypingGame.deps.json
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\TypingGame\TypingGame\bin\Debug\net8.0\TypingGame.runtimeconfig.json
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\TypingGame\TypingGame\bin\Debug\net8.0\TypingGame.dll
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\TypingGame\TypingGame\bin\Debug\net8.0\TypingGame.pdb
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\TypingGame\TypingGame\obj\Debug\net8.0\TypingGame.GeneratedMSBuildEditorConfig.editorconfig
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\TypingGame\TypingGame\obj\Debug\net8.0\TypingGame.AssemblyInfoInputs.cache
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\TypingGame\TypingGame\obj\Debug\net8.0\TypingGame.AssemblyInfo.cs
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\TypingGame\TypingGame\obj\Debug\net8.0\TypingGame.csproj.CoreCompileInputs.cache
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\TypingGame\TypingGame\obj\Debug\net8.0\TypingGame.dll
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\TypingGame\TypingGame\obj\Debug\net8.0\refint\TypingGame.dll
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\TypingGame\TypingGame\obj\Debug\net8.0\TypingGame.pdb
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\TypingGame\TypingGame\obj\Debug\net8.0\TypingGame.genruntimeconfig.cache
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\TypingGame\TypingGame\obj\Debug\net8.0\ref\TypingGame.dll
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\TypingGame\TypingGame\bin\Debug\net8.0\wordlist.txt

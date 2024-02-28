@@ -1,0 +1,14 @@
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Wuerfelspiel\Wuerfelspiel\bin\Debug\net8.0\Wuerfelspiel.exe
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Wuerfelspiel\Wuerfelspiel\bin\Debug\net8.0\Wuerfelspiel.deps.json
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Wuerfelspiel\Wuerfelspiel\bin\Debug\net8.0\Wuerfelspiel.runtimeconfig.json
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Wuerfelspiel\Wuerfelspiel\bin\Debug\net8.0\Wuerfelspiel.dll
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Wuerfelspiel\Wuerfelspiel\bin\Debug\net8.0\Wuerfelspiel.pdb
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Wuerfelspiel\Wuerfelspiel\obj\Debug\net8.0\Wuerfelspiel.GeneratedMSBuildEditorConfig.editorconfig
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Wuerfelspiel\Wuerfelspiel\obj\Debug\net8.0\Wuerfelspiel.AssemblyInfoInputs.cache
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Wuerfelspiel\Wuerfelspiel\obj\Debug\net8.0\Wuerfelspiel.AssemblyInfo.cs
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Wuerfelspiel\Wuerfelspiel\obj\Debug\net8.0\Wuerfelspiel.csproj.CoreCompileInputs.cache
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Wuerfelspiel\Wuerfelspiel\obj\Debug\net8.0\Wuerfelspiel.dll
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Wuerfelspiel\Wuerfelspiel\obj\Debug\net8.0\refint\Wuerfelspiel.dll
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Wuerfelspiel\Wuerfelspiel\obj\Debug\net8.0\Wuerfelspiel.pdb
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Wuerfelspiel\Wuerfelspiel\obj\Debug\net8.0\Wuerfelspiel.genruntimeconfig.cache
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Wuerfelspiel\Wuerfelspiel\obj\Debug\net8.0\ref\Wuerfelspiel.dll

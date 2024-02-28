@@ -1,0 +1,14 @@
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Schere-Stein-Papier-Spiel\Schere-Stein-Papier-Spiel\bin\Debug\net8.0\Schere-Stein-Papier-Spiel.exe
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Schere-Stein-Papier-Spiel\Schere-Stein-Papier-Spiel\bin\Debug\net8.0\Schere-Stein-Papier-Spiel.deps.json
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Schere-Stein-Papier-Spiel\Schere-Stein-Papier-Spiel\bin\Debug\net8.0\Schere-Stein-Papier-Spiel.runtimeconfig.json
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Schere-Stein-Papier-Spiel\Schere-Stein-Papier-Spiel\bin\Debug\net8.0\Schere-Stein-Papier-Spiel.dll
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Schere-Stein-Papier-Spiel\Schere-Stein-Papier-Spiel\bin\Debug\net8.0\Schere-Stein-Papier-Spiel.pdb
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Schere-Stein-Papier-Spiel\Schere-Stein-Papier-Spiel\obj\Debug\net8.0\Schere-Stein-Papier-Spiel.GeneratedMSBuildEditorConfig.editorconfig
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Schere-Stein-Papier-Spiel\Schere-Stein-Papier-Spiel\obj\Debug\net8.0\Schere-Stein-Papier-Spiel.AssemblyInfoInputs.cache
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Schere-Stein-Papier-Spiel\Schere-Stein-Papier-Spiel\obj\Debug\net8.0\Schere-Stein-Papier-Spiel.AssemblyInfo.cs
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Schere-Stein-Papier-Spiel\Schere-Stein-Papier-Spiel\obj\Debug\net8.0\Schere-Stein-Papier-Spiel.csproj.CoreCompileInputs.cache
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Schere-Stein-Papier-Spiel\Schere-Stein-Papier-Spiel\obj\Debug\net8.0\Schere-Stein-Papier-Spiel.dll
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Schere-Stein-Papier-Spiel\Schere-Stein-Papier-Spiel\obj\Debug\net8.0\refint\Schere-Stein-Papier-Spiel.dll
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Schere-Stein-Papier-Spiel\Schere-Stein-Papier-Spiel\obj\Debug\net8.0\Schere-Stein-Papier-Spiel.pdb
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Schere-Stein-Papier-Spiel\Schere-Stein-Papier-Spiel\obj\Debug\net8.0\Schere-Stein-Papier-Spiel.genruntimeconfig.cache
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Schere-Stein-Papier-Spiel\Schere-Stein-Papier-Spiel\obj\Debug\net8.0\ref\Schere-Stein-Papier-Spiel.dll

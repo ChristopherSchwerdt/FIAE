@@ -1,0 +1,15 @@
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\myEncrypt\myEncrypt\bin\Debug\net8.0\myEncrypt.exe
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\myEncrypt\myEncrypt\bin\Debug\net8.0\myEncrypt.deps.json
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\myEncrypt\myEncrypt\bin\Debug\net8.0\myEncrypt.runtimeconfig.json
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\myEncrypt\myEncrypt\bin\Debug\net8.0\myEncrypt.dll
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\myEncrypt\myEncrypt\bin\Debug\net8.0\myEncrypt.pdb
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\myEncrypt\myEncrypt\obj\Debug\net8.0\myEncrypt.GeneratedMSBuildEditorConfig.editorconfig
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\myEncrypt\myEncrypt\obj\Debug\net8.0\myEncrypt.AssemblyInfoInputs.cache
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\myEncrypt\myEncrypt\obj\Debug\net8.0\myEncrypt.AssemblyInfo.cs
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\myEncrypt\myEncrypt\obj\Debug\net8.0\myEncrypt.csproj.CoreCompileInputs.cache
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\myEncrypt\myEncrypt\obj\Debug\net8.0\myEncrypt.dll
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\myEncrypt\myEncrypt\obj\Debug\net8.0\refint\myEncrypt.dll
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\myEncrypt\myEncrypt\obj\Debug\net8.0\myEncrypt.pdb
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\myEncrypt\myEncrypt\obj\Debug\net8.0\myEncrypt.genruntimeconfig.cache
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\myEncrypt\myEncrypt\obj\Debug\net8.0\ref\myEncrypt.dll
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\myEncrypt\myEncrypt\bin\Debug\net8.0\secret.txt

@@ -1,0 +1,14 @@
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\HelloBob2\HelloBob2\bin\Debug\net8.0\HelloBob2.exe
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\HelloBob2\HelloBob2\bin\Debug\net8.0\HelloBob2.deps.json
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\HelloBob2\HelloBob2\bin\Debug\net8.0\HelloBob2.runtimeconfig.json
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\HelloBob2\HelloBob2\bin\Debug\net8.0\HelloBob2.dll
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\HelloBob2\HelloBob2\bin\Debug\net8.0\HelloBob2.pdb
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\HelloBob2\HelloBob2\obj\Debug\net8.0\HelloBob2.GeneratedMSBuildEditorConfig.editorconfig
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\HelloBob2\HelloBob2\obj\Debug\net8.0\HelloBob2.AssemblyInfoInputs.cache
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\HelloBob2\HelloBob2\obj\Debug\net8.0\HelloBob2.AssemblyInfo.cs
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\HelloBob2\HelloBob2\obj\Debug\net8.0\HelloBob2.csproj.CoreCompileInputs.cache
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\HelloBob2\HelloBob2\obj\Debug\net8.0\HelloBob2.dll
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\HelloBob2\HelloBob2\obj\Debug\net8.0\refint\HelloBob2.dll
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\HelloBob2\HelloBob2\obj\Debug\net8.0\HelloBob2.pdb
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\HelloBob2\HelloBob2\obj\Debug\net8.0\HelloBob2.genruntimeconfig.cache
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\HelloBob2\HelloBob2\obj\Debug\net8.0\ref\HelloBob2.dll

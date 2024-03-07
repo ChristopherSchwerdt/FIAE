@@ -1,0 +1,14 @@
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\EnterANumberHigherThan10\EnterANumberHigherThan10\bin\Debug\net8.0\EnterANumberHigherThan10.exe
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\EnterANumberHigherThan10\EnterANumberHigherThan10\bin\Debug\net8.0\EnterANumberHigherThan10.deps.json
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\EnterANumberHigherThan10\EnterANumberHigherThan10\bin\Debug\net8.0\EnterANumberHigherThan10.runtimeconfig.json
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\EnterANumberHigherThan10\EnterANumberHigherThan10\bin\Debug\net8.0\EnterANumberHigherThan10.dll
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\EnterANumberHigherThan10\EnterANumberHigherThan10\bin\Debug\net8.0\EnterANumberHigherThan10.pdb
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\EnterANumberHigherThan10\EnterANumberHigherThan10\obj\Debug\net8.0\EnterANumberHigherThan10.GeneratedMSBuildEditorConfig.editorconfig
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\EnterANumberHigherThan10\EnterANumberHigherThan10\obj\Debug\net8.0\EnterANumberHigherThan10.AssemblyInfoInputs.cache
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\EnterANumberHigherThan10\EnterANumberHigherThan10\obj\Debug\net8.0\EnterANumberHigherThan10.AssemblyInfo.cs
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\EnterANumberHigherThan10\EnterANumberHigherThan10\obj\Debug\net8.0\EnterANumberHigherThan10.csproj.CoreCompileInputs.cache
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\EnterANumberHigherThan10\EnterANumberHigherThan10\obj\Debug\net8.0\EnterANumberHigherThan10.dll
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\EnterANumberHigherThan10\EnterANumberHigherThan10\obj\Debug\net8.0\refint\EnterANumberHigherThan10.dll
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\EnterANumberHigherThan10\EnterANumberHigherThan10\obj\Debug\net8.0\EnterANumberHigherThan10.pdb
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\EnterANumberHigherThan10\EnterANumberHigherThan10\obj\Debug\net8.0\EnterANumberHigherThan10.genruntimeconfig.cache
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\EnterANumberHigherThan10\EnterANumberHigherThan10\obj\Debug\net8.0\ref\EnterANumberHigherThan10.dll

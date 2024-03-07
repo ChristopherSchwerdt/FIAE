@@ -1,0 +1,14 @@
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Fahrtenschreiber\Fahrtenschreiber\bin\Debug\net8.0\Fahrtenschreiber.exe
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Fahrtenschreiber\Fahrtenschreiber\bin\Debug\net8.0\Fahrtenschreiber.deps.json
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Fahrtenschreiber\Fahrtenschreiber\bin\Debug\net8.0\Fahrtenschreiber.runtimeconfig.json
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Fahrtenschreiber\Fahrtenschreiber\bin\Debug\net8.0\Fahrtenschreiber.dll
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Fahrtenschreiber\Fahrtenschreiber\bin\Debug\net8.0\Fahrtenschreiber.pdb
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Fahrtenschreiber\Fahrtenschreiber\obj\Debug\net8.0\Fahrtenschreiber.GeneratedMSBuildEditorConfig.editorconfig
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Fahrtenschreiber\Fahrtenschreiber\obj\Debug\net8.0\Fahrtenschreiber.AssemblyInfoInputs.cache
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Fahrtenschreiber\Fahrtenschreiber\obj\Debug\net8.0\Fahrtenschreiber.AssemblyInfo.cs
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Fahrtenschreiber\Fahrtenschreiber\obj\Debug\net8.0\Fahrtenschreiber.csproj.CoreCompileInputs.cache
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Fahrtenschreiber\Fahrtenschreiber\obj\Debug\net8.0\Fahrtenschreiber.dll
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Fahrtenschreiber\Fahrtenschreiber\obj\Debug\net8.0\refint\Fahrtenschreiber.dll
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Fahrtenschreiber\Fahrtenschreiber\obj\Debug\net8.0\Fahrtenschreiber.pdb
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Fahrtenschreiber\Fahrtenschreiber\obj\Debug\net8.0\Fahrtenschreiber.genruntimeconfig.cache
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Fahrtenschreiber\Fahrtenschreiber\obj\Debug\net8.0\ref\Fahrtenschreiber.dll

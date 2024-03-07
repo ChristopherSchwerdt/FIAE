@@ -1,0 +1,14 @@
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\TempCalculator\TempCalculator\bin\Debug\net8.0\TempCalculator.exe
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\TempCalculator\TempCalculator\bin\Debug\net8.0\TempCalculator.deps.json
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\TempCalculator\TempCalculator\bin\Debug\net8.0\TempCalculator.runtimeconfig.json
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\TempCalculator\TempCalculator\bin\Debug\net8.0\TempCalculator.dll
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\TempCalculator\TempCalculator\bin\Debug\net8.0\TempCalculator.pdb
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\TempCalculator\TempCalculator\obj\Debug\net8.0\TempCalculator.GeneratedMSBuildEditorConfig.editorconfig
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\TempCalculator\TempCalculator\obj\Debug\net8.0\TempCalculator.AssemblyInfoInputs.cache
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\TempCalculator\TempCalculator\obj\Debug\net8.0\TempCalculator.AssemblyInfo.cs
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\TempCalculator\TempCalculator\obj\Debug\net8.0\TempCalculator.csproj.CoreCompileInputs.cache
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\TempCalculator\TempCalculator\obj\Debug\net8.0\TempCalculator.dll
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\TempCalculator\TempCalculator\obj\Debug\net8.0\refint\TempCalculator.dll
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\TempCalculator\TempCalculator\obj\Debug\net8.0\TempCalculator.pdb
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\TempCalculator\TempCalculator\obj\Debug\net8.0\TempCalculator.genruntimeconfig.cache
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\TempCalculator\TempCalculator\obj\Debug\net8.0\ref\TempCalculator.dll

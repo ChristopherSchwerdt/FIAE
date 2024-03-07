@@ -1,0 +1,14 @@
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\HowManyYearsTill100\HowManyYearsTill100\bin\Debug\net8.0\HowManyYearsTill100.exe
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\HowManyYearsTill100\HowManyYearsTill100\bin\Debug\net8.0\HowManyYearsTill100.deps.json
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\HowManyYearsTill100\HowManyYearsTill100\bin\Debug\net8.0\HowManyYearsTill100.runtimeconfig.json
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\HowManyYearsTill100\HowManyYearsTill100\bin\Debug\net8.0\HowManyYearsTill100.dll
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\HowManyYearsTill100\HowManyYearsTill100\bin\Debug\net8.0\HowManyYearsTill100.pdb
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\HowManyYearsTill100\HowManyYearsTill100\obj\Debug\net8.0\HowManyYearsTill100.GeneratedMSBuildEditorConfig.editorconfig
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\HowManyYearsTill100\HowManyYearsTill100\obj\Debug\net8.0\HowManyYearsTill100.AssemblyInfoInputs.cache
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\HowManyYearsTill100\HowManyYearsTill100\obj\Debug\net8.0\HowManyYearsTill100.AssemblyInfo.cs
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\HowManyYearsTill100\HowManyYearsTill100\obj\Debug\net8.0\HowManyYearsTill100.csproj.CoreCompileInputs.cache
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\HowManyYearsTill100\HowManyYearsTill100\obj\Debug\net8.0\HowManyYearsTill100.dll
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\HowManyYearsTill100\HowManyYearsTill100\obj\Debug\net8.0\refint\HowManyYearsTill100.dll
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\HowManyYearsTill100\HowManyYearsTill100\obj\Debug\net8.0\HowManyYearsTill100.pdb
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\HowManyYearsTill100\HowManyYearsTill100\obj\Debug\net8.0\HowManyYearsTill100.genruntimeconfig.cache
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\HowManyYearsTill100\HowManyYearsTill100\obj\Debug\net8.0\ref\HowManyYearsTill100.dll

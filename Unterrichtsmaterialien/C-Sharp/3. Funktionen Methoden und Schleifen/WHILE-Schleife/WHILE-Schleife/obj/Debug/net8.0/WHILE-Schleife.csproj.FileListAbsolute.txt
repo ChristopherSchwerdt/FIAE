@@ -1,0 +1,14 @@
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\WHILE-Schleife\WHILE-Schleife\bin\Debug\net8.0\WHILE-Schleife.exe
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\WHILE-Schleife\WHILE-Schleife\bin\Debug\net8.0\WHILE-Schleife.deps.json
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\WHILE-Schleife\WHILE-Schleife\bin\Debug\net8.0\WHILE-Schleife.runtimeconfig.json
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\WHILE-Schleife\WHILE-Schleife\bin\Debug\net8.0\WHILE-Schleife.dll
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\WHILE-Schleife\WHILE-Schleife\bin\Debug\net8.0\WHILE-Schleife.pdb
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\WHILE-Schleife\WHILE-Schleife\obj\Debug\net8.0\WHILE-Schleife.GeneratedMSBuildEditorConfig.editorconfig
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\WHILE-Schleife\WHILE-Schleife\obj\Debug\net8.0\WHILE-Schleife.AssemblyInfoInputs.cache
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\WHILE-Schleife\WHILE-Schleife\obj\Debug\net8.0\WHILE-Schleife.AssemblyInfo.cs
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\WHILE-Schleife\WHILE-Schleife\obj\Debug\net8.0\WHILE-Schleife.csproj.CoreCompileInputs.cache
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\WHILE-Schleife\WHILE-Schleife\obj\Debug\net8.0\WHILE-Schleife.dll
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\WHILE-Schleife\WHILE-Schleife\obj\Debug\net8.0\refint\WHILE-Schleife.dll
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\WHILE-Schleife\WHILE-Schleife\obj\Debug\net8.0\WHILE-Schleife.pdb
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\WHILE-Schleife\WHILE-Schleife\obj\Debug\net8.0\WHILE-Schleife.genruntimeconfig.cache
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\WHILE-Schleife\WHILE-Schleife\obj\Debug\net8.0\ref\WHILE-Schleife.dll

@@ -1,0 +1,14 @@
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\FOR-Schleife\FOR-Schleife\bin\Debug\net8.0\FOR-Schleife.exe
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\FOR-Schleife\FOR-Schleife\bin\Debug\net8.0\FOR-Schleife.deps.json
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\FOR-Schleife\FOR-Schleife\bin\Debug\net8.0\FOR-Schleife.runtimeconfig.json
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\FOR-Schleife\FOR-Schleife\bin\Debug\net8.0\FOR-Schleife.dll
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\FOR-Schleife\FOR-Schleife\bin\Debug\net8.0\FOR-Schleife.pdb
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\FOR-Schleife\FOR-Schleife\obj\Debug\net8.0\FOR-Schleife.GeneratedMSBuildEditorConfig.editorconfig
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\FOR-Schleife\FOR-Schleife\obj\Debug\net8.0\FOR-Schleife.AssemblyInfoInputs.cache
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\FOR-Schleife\FOR-Schleife\obj\Debug\net8.0\FOR-Schleife.AssemblyInfo.cs
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\FOR-Schleife\FOR-Schleife\obj\Debug\net8.0\FOR-Schleife.csproj.CoreCompileInputs.cache
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\FOR-Schleife\FOR-Schleife\obj\Debug\net8.0\FOR-Schleife.dll
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\FOR-Schleife\FOR-Schleife\obj\Debug\net8.0\refint\FOR-Schleife.dll
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\FOR-Schleife\FOR-Schleife\obj\Debug\net8.0\FOR-Schleife.pdb
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\FOR-Schleife\FOR-Schleife\obj\Debug\net8.0\FOR-Schleife.genruntimeconfig.cache
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\FOR-Schleife\FOR-Schleife\obj\Debug\net8.0\ref\FOR-Schleife.dll

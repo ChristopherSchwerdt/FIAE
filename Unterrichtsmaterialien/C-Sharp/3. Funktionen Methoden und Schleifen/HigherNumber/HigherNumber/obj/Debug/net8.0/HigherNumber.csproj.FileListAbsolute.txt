@@ -1,0 +1,14 @@
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\HigherNumber\HigherNumber\bin\Debug\net8.0\HigherNumber.exe
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\HigherNumber\HigherNumber\bin\Debug\net8.0\HigherNumber.deps.json
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\HigherNumber\HigherNumber\bin\Debug\net8.0\HigherNumber.runtimeconfig.json
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\HigherNumber\HigherNumber\bin\Debug\net8.0\HigherNumber.dll
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\HigherNumber\HigherNumber\bin\Debug\net8.0\HigherNumber.pdb
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\HigherNumber\HigherNumber\obj\Debug\net8.0\HigherNumber.GeneratedMSBuildEditorConfig.editorconfig
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\HigherNumber\HigherNumber\obj\Debug\net8.0\HigherNumber.AssemblyInfoInputs.cache
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\HigherNumber\HigherNumber\obj\Debug\net8.0\HigherNumber.AssemblyInfo.cs
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\HigherNumber\HigherNumber\obj\Debug\net8.0\HigherNumber.csproj.CoreCompileInputs.cache
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\HigherNumber\HigherNumber\obj\Debug\net8.0\HigherNumber.dll
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\HigherNumber\HigherNumber\obj\Debug\net8.0\refint\HigherNumber.dll
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\HigherNumber\HigherNumber\obj\Debug\net8.0\HigherNumber.pdb
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\HigherNumber\HigherNumber\obj\Debug\net8.0\HigherNumber.genruntimeconfig.cache
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\HigherNumber\HigherNumber\obj\Debug\net8.0\ref\HigherNumber.dll

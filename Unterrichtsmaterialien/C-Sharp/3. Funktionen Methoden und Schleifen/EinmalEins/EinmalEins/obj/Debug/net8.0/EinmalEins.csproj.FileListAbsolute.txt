@@ -1,0 +1,14 @@
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\EinmalEins\EinmalEins\bin\Debug\net8.0\EinmalEins.exe
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\EinmalEins\EinmalEins\bin\Debug\net8.0\EinmalEins.deps.json
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\EinmalEins\EinmalEins\bin\Debug\net8.0\EinmalEins.runtimeconfig.json
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\EinmalEins\EinmalEins\bin\Debug\net8.0\EinmalEins.dll
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\EinmalEins\EinmalEins\bin\Debug\net8.0\EinmalEins.pdb
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\EinmalEins\EinmalEins\obj\Debug\net8.0\EinmalEins.GeneratedMSBuildEditorConfig.editorconfig
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\EinmalEins\EinmalEins\obj\Debug\net8.0\EinmalEins.AssemblyInfoInputs.cache
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\EinmalEins\EinmalEins\obj\Debug\net8.0\EinmalEins.AssemblyInfo.cs
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\EinmalEins\EinmalEins\obj\Debug\net8.0\EinmalEins.csproj.CoreCompileInputs.cache
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\EinmalEins\EinmalEins\obj\Debug\net8.0\EinmalEins.dll
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\EinmalEins\EinmalEins\obj\Debug\net8.0\refint\EinmalEins.dll
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\EinmalEins\EinmalEins\obj\Debug\net8.0\EinmalEins.pdb
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\EinmalEins\EinmalEins\obj\Debug\net8.0\EinmalEins.genruntimeconfig.cache
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\EinmalEins\EinmalEins\obj\Debug\net8.0\ref\EinmalEins.dll

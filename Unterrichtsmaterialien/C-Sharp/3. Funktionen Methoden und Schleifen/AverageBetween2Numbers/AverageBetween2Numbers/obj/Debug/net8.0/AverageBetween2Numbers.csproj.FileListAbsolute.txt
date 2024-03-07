@@ -1,0 +1,14 @@
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\AverageBetween2Numbers\AverageBetween2Numbers\bin\Debug\net8.0\AverageBetween2Numbers.exe
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\AverageBetween2Numbers\AverageBetween2Numbers\bin\Debug\net8.0\AverageBetween2Numbers.deps.json
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\AverageBetween2Numbers\AverageBetween2Numbers\bin\Debug\net8.0\AverageBetween2Numbers.runtimeconfig.json
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\AverageBetween2Numbers\AverageBetween2Numbers\bin\Debug\net8.0\AverageBetween2Numbers.dll
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\AverageBetween2Numbers\AverageBetween2Numbers\bin\Debug\net8.0\AverageBetween2Numbers.pdb
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\AverageBetween2Numbers\AverageBetween2Numbers\obj\Debug\net8.0\AverageBetween2Numbers.GeneratedMSBuildEditorConfig.editorconfig
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\AverageBetween2Numbers\AverageBetween2Numbers\obj\Debug\net8.0\AverageBetween2Numbers.AssemblyInfoInputs.cache
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\AverageBetween2Numbers\AverageBetween2Numbers\obj\Debug\net8.0\AverageBetween2Numbers.AssemblyInfo.cs
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\AverageBetween2Numbers\AverageBetween2Numbers\obj\Debug\net8.0\AverageBetween2Numbers.csproj.CoreCompileInputs.cache
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\AverageBetween2Numbers\AverageBetween2Numbers\obj\Debug\net8.0\AverageBetween2Numbers.dll
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\AverageBetween2Numbers\AverageBetween2Numbers\obj\Debug\net8.0\refint\AverageBetween2Numbers.dll
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\AverageBetween2Numbers\AverageBetween2Numbers\obj\Debug\net8.0\AverageBetween2Numbers.pdb
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\AverageBetween2Numbers\AverageBetween2Numbers\obj\Debug\net8.0\AverageBetween2Numbers.genruntimeconfig.cache
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\AverageBetween2Numbers\AverageBetween2Numbers\obj\Debug\net8.0\ref\AverageBetween2Numbers.dll

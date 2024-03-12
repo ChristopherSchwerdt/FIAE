@@ -1,0 +1,14 @@
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Studentenverwaltung\Studentenverwaltung\bin\Debug\net8.0\Studentenverwaltung.exe
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Studentenverwaltung\Studentenverwaltung\bin\Debug\net8.0\Studentenverwaltung.deps.json
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Studentenverwaltung\Studentenverwaltung\bin\Debug\net8.0\Studentenverwaltung.runtimeconfig.json
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Studentenverwaltung\Studentenverwaltung\bin\Debug\net8.0\Studentenverwaltung.dll
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Studentenverwaltung\Studentenverwaltung\bin\Debug\net8.0\Studentenverwaltung.pdb
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Studentenverwaltung\Studentenverwaltung\obj\Debug\net8.0\Studentenverwaltung.GeneratedMSBuildEditorConfig.editorconfig
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Studentenverwaltung\Studentenverwaltung\obj\Debug\net8.0\Studentenverwaltung.AssemblyInfoInputs.cache
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Studentenverwaltung\Studentenverwaltung\obj\Debug\net8.0\Studentenverwaltung.AssemblyInfo.cs
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Studentenverwaltung\Studentenverwaltung\obj\Debug\net8.0\Studentenverwaltung.csproj.CoreCompileInputs.cache
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Studentenverwaltung\Studentenverwaltung\obj\Debug\net8.0\Studentenverwaltung.dll
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Studentenverwaltung\Studentenverwaltung\obj\Debug\net8.0\refint\Studentenverwaltung.dll
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Studentenverwaltung\Studentenverwaltung\obj\Debug\net8.0\Studentenverwaltung.pdb
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Studentenverwaltung\Studentenverwaltung\obj\Debug\net8.0\Studentenverwaltung.genruntimeconfig.cache
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Studentenverwaltung\Studentenverwaltung\obj\Debug\net8.0\ref\Studentenverwaltung.dll

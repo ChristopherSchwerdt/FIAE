@@ -1,0 +1,14 @@
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\OOP_Computerverwaltung\OOP_Computerverwaltung\bin\Debug\net8.0\OOP_Computerverwaltung.exe
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\OOP_Computerverwaltung\OOP_Computerverwaltung\bin\Debug\net8.0\OOP_Computerverwaltung.deps.json
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\OOP_Computerverwaltung\OOP_Computerverwaltung\bin\Debug\net8.0\OOP_Computerverwaltung.runtimeconfig.json
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\OOP_Computerverwaltung\OOP_Computerverwaltung\bin\Debug\net8.0\OOP_Computerverwaltung.dll
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\OOP_Computerverwaltung\OOP_Computerverwaltung\bin\Debug\net8.0\OOP_Computerverwaltung.pdb
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\OOP_Computerverwaltung\OOP_Computerverwaltung\obj\Debug\net8.0\OOP_Computerverwaltung.GeneratedMSBuildEditorConfig.editorconfig
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\OOP_Computerverwaltung\OOP_Computerverwaltung\obj\Debug\net8.0\OOP_Computerverwaltung.AssemblyInfoInputs.cache
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\OOP_Computerverwaltung\OOP_Computerverwaltung\obj\Debug\net8.0\OOP_Computerverwaltung.AssemblyInfo.cs
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\OOP_Computerverwaltung\OOP_Computerverwaltung\obj\Debug\net8.0\OOP_Computerverwaltung.csproj.CoreCompileInputs.cache
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\OOP_Computerverwaltung\OOP_Computerverwaltung\obj\Debug\net8.0\OOP_Computerverwaltung.dll
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\OOP_Computerverwaltung\OOP_Computerverwaltung\obj\Debug\net8.0\refint\OOP_Computerverwaltung.dll
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\OOP_Computerverwaltung\OOP_Computerverwaltung\obj\Debug\net8.0\OOP_Computerverwaltung.pdb
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\OOP_Computerverwaltung\OOP_Computerverwaltung\obj\Debug\net8.0\OOP_Computerverwaltung.genruntimeconfig.cache
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\OOP_Computerverwaltung\OOP_Computerverwaltung\obj\Debug\net8.0\ref\OOP_Computerverwaltung.dll

@@ -1,0 +1,14 @@
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\OOP_Radio\OOP_Radio\bin\Debug\net8.0\OOP_Radio.exe
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\OOP_Radio\OOP_Radio\bin\Debug\net8.0\OOP_Radio.deps.json
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\OOP_Radio\OOP_Radio\bin\Debug\net8.0\OOP_Radio.runtimeconfig.json
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\OOP_Radio\OOP_Radio\bin\Debug\net8.0\OOP_Radio.dll
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\OOP_Radio\OOP_Radio\bin\Debug\net8.0\OOP_Radio.pdb
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\OOP_Radio\OOP_Radio\obj\Debug\net8.0\OOP_Radio.GeneratedMSBuildEditorConfig.editorconfig
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\OOP_Radio\OOP_Radio\obj\Debug\net8.0\OOP_Radio.AssemblyInfoInputs.cache
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\OOP_Radio\OOP_Radio\obj\Debug\net8.0\OOP_Radio.AssemblyInfo.cs
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\OOP_Radio\OOP_Radio\obj\Debug\net8.0\OOP_Radio.csproj.CoreCompileInputs.cache
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\OOP_Radio\OOP_Radio\obj\Debug\net8.0\OOP_Radio.dll
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\OOP_Radio\OOP_Radio\obj\Debug\net8.0\refint\OOP_Radio.dll
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\OOP_Radio\OOP_Radio\obj\Debug\net8.0\OOP_Radio.pdb
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\OOP_Radio\OOP_Radio\obj\Debug\net8.0\OOP_Radio.genruntimeconfig.cache
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\OOP_Radio\OOP_Radio\obj\Debug\net8.0\ref\OOP_Radio.dll

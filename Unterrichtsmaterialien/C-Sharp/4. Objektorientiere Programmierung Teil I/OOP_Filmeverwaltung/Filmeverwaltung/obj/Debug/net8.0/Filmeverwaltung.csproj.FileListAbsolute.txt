@@ -1,0 +1,14 @@
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Filmeverwaltung\Filmeverwaltung\bin\Debug\net8.0\Filmeverwaltung.exe
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Filmeverwaltung\Filmeverwaltung\bin\Debug\net8.0\Filmeverwaltung.deps.json
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Filmeverwaltung\Filmeverwaltung\bin\Debug\net8.0\Filmeverwaltung.runtimeconfig.json
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Filmeverwaltung\Filmeverwaltung\bin\Debug\net8.0\Filmeverwaltung.dll
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Filmeverwaltung\Filmeverwaltung\bin\Debug\net8.0\Filmeverwaltung.pdb
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Filmeverwaltung\Filmeverwaltung\obj\Debug\net8.0\Filmeverwaltung.GeneratedMSBuildEditorConfig.editorconfig
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Filmeverwaltung\Filmeverwaltung\obj\Debug\net8.0\Filmeverwaltung.AssemblyInfoInputs.cache
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Filmeverwaltung\Filmeverwaltung\obj\Debug\net8.0\Filmeverwaltung.AssemblyInfo.cs
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Filmeverwaltung\Filmeverwaltung\obj\Debug\net8.0\Filmeverwaltung.csproj.CoreCompileInputs.cache
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Filmeverwaltung\Filmeverwaltung\obj\Debug\net8.0\Filmeverwaltung.dll
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Filmeverwaltung\Filmeverwaltung\obj\Debug\net8.0\refint\Filmeverwaltung.dll
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Filmeverwaltung\Filmeverwaltung\obj\Debug\net8.0\Filmeverwaltung.pdb
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Filmeverwaltung\Filmeverwaltung\obj\Debug\net8.0\Filmeverwaltung.genruntimeconfig.cache
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Filmeverwaltung\Filmeverwaltung\obj\Debug\net8.0\ref\Filmeverwaltung.dll

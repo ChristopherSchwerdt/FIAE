@@ -1,0 +1,14 @@
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\OOP_Backup\OOP_Backup\bin\Debug\net8.0\OOP_Backup.exe
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\OOP_Backup\OOP_Backup\bin\Debug\net8.0\OOP_Backup.deps.json
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\OOP_Backup\OOP_Backup\bin\Debug\net8.0\OOP_Backup.runtimeconfig.json
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\OOP_Backup\OOP_Backup\bin\Debug\net8.0\OOP_Backup.dll
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\OOP_Backup\OOP_Backup\bin\Debug\net8.0\OOP_Backup.pdb
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\OOP_Backup\OOP_Backup\obj\Debug\net8.0\OOP_Backup.GeneratedMSBuildEditorConfig.editorconfig
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\OOP_Backup\OOP_Backup\obj\Debug\net8.0\OOP_Backup.AssemblyInfoInputs.cache
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\OOP_Backup\OOP_Backup\obj\Debug\net8.0\OOP_Backup.AssemblyInfo.cs
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\OOP_Backup\OOP_Backup\obj\Debug\net8.0\OOP_Backup.csproj.CoreCompileInputs.cache
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\OOP_Backup\OOP_Backup\obj\Debug\net8.0\OOP_Backup.dll
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\OOP_Backup\OOP_Backup\obj\Debug\net8.0\refint\OOP_Backup.dll
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\OOP_Backup\OOP_Backup\obj\Debug\net8.0\OOP_Backup.pdb
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\OOP_Backup\OOP_Backup\obj\Debug\net8.0\OOP_Backup.genruntimeconfig.cache
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\OOP_Backup\OOP_Backup\obj\Debug\net8.0\ref\OOP_Backup.dll

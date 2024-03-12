@@ -1,0 +1,14 @@
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Personenverwaltung\Personenverwaltung\bin\Debug\net8.0\Personenverwaltung.exe
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Personenverwaltung\Personenverwaltung\bin\Debug\net8.0\Personenverwaltung.deps.json
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Personenverwaltung\Personenverwaltung\bin\Debug\net8.0\Personenverwaltung.runtimeconfig.json
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Personenverwaltung\Personenverwaltung\bin\Debug\net8.0\Personenverwaltung.dll
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Personenverwaltung\Personenverwaltung\bin\Debug\net8.0\Personenverwaltung.pdb
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Personenverwaltung\Personenverwaltung\obj\Debug\net8.0\Personenverwaltung.GeneratedMSBuildEditorConfig.editorconfig
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Personenverwaltung\Personenverwaltung\obj\Debug\net8.0\Personenverwaltung.AssemblyInfoInputs.cache
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Personenverwaltung\Personenverwaltung\obj\Debug\net8.0\Personenverwaltung.AssemblyInfo.cs
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Personenverwaltung\Personenverwaltung\obj\Debug\net8.0\Personenverwaltung.csproj.CoreCompileInputs.cache
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Personenverwaltung\Personenverwaltung\obj\Debug\net8.0\Personenverwaltung.dll
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Personenverwaltung\Personenverwaltung\obj\Debug\net8.0\refint\Personenverwaltung.dll
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Personenverwaltung\Personenverwaltung\obj\Debug\net8.0\Personenverwaltung.pdb
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Personenverwaltung\Personenverwaltung\obj\Debug\net8.0\Personenverwaltung.genruntimeconfig.cache
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Personenverwaltung\Personenverwaltung\obj\Debug\net8.0\ref\Personenverwaltung.dll

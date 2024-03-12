@@ -1,0 +1,14 @@
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\HotelReservierungsSoftware\HotelReservierungsSoftware\obj\Debug\net8.0\HotelReservierungsSoftware.GeneratedMSBuildEditorConfig.editorconfig
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\HotelReservierungsSoftware\HotelReservierungsSoftware\obj\Debug\net8.0\HotelReservierungsSoftware.AssemblyInfoInputs.cache
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\HotelReservierungsSoftware\HotelReservierungsSoftware\obj\Debug\net8.0\HotelReservierungsSoftware.AssemblyInfo.cs
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\HotelReservierungsSoftware\HotelReservierungsSoftware\obj\Debug\net8.0\HotelReservierungsSoftware.csproj.CoreCompileInputs.cache
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\HotelReservierungsSoftware\HotelReservierungsSoftware\bin\Debug\net8.0\HotelReservierungsSoftware.exe
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\HotelReservierungsSoftware\HotelReservierungsSoftware\bin\Debug\net8.0\HotelReservierungsSoftware.deps.json
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\HotelReservierungsSoftware\HotelReservierungsSoftware\bin\Debug\net8.0\HotelReservierungsSoftware.runtimeconfig.json
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\HotelReservierungsSoftware\HotelReservierungsSoftware\bin\Debug\net8.0\HotelReservierungsSoftware.dll
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\HotelReservierungsSoftware\HotelReservierungsSoftware\bin\Debug\net8.0\HotelReservierungsSoftware.pdb
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\HotelReservierungsSoftware\HotelReservierungsSoftware\obj\Debug\net8.0\HotelReservierungsSoftware.dll
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\HotelReservierungsSoftware\HotelReservierungsSoftware\obj\Debug\net8.0\refint\HotelReservierungsSoftware.dll
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\HotelReservierungsSoftware\HotelReservierungsSoftware\obj\Debug\net8.0\HotelReservierungsSoftware.pdb
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\HotelReservierungsSoftware\HotelReservierungsSoftware\obj\Debug\net8.0\HotelReservierungsSoftware.genruntimeconfig.cache
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\HotelReservierungsSoftware\HotelReservierungsSoftware\obj\Debug\net8.0\ref\HotelReservierungsSoftware.dll

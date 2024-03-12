@@ -1,0 +1,14 @@
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Fahrzeuge\Fahrzeuge\bin\Debug\net8.0\Fahrzeuge.exe
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Fahrzeuge\Fahrzeuge\bin\Debug\net8.0\Fahrzeuge.deps.json
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Fahrzeuge\Fahrzeuge\bin\Debug\net8.0\Fahrzeuge.runtimeconfig.json
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Fahrzeuge\Fahrzeuge\bin\Debug\net8.0\Fahrzeuge.dll
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Fahrzeuge\Fahrzeuge\bin\Debug\net8.0\Fahrzeuge.pdb
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Fahrzeuge\Fahrzeuge\obj\Debug\net8.0\Fahrzeuge.GeneratedMSBuildEditorConfig.editorconfig
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Fahrzeuge\Fahrzeuge\obj\Debug\net8.0\Fahrzeuge.AssemblyInfoInputs.cache
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Fahrzeuge\Fahrzeuge\obj\Debug\net8.0\Fahrzeuge.AssemblyInfo.cs
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Fahrzeuge\Fahrzeuge\obj\Debug\net8.0\Fahrzeuge.csproj.CoreCompileInputs.cache
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Fahrzeuge\Fahrzeuge\obj\Debug\net8.0\Fahrzeuge.dll
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Fahrzeuge\Fahrzeuge\obj\Debug\net8.0\refint\Fahrzeuge.dll
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Fahrzeuge\Fahrzeuge\obj\Debug\net8.0\Fahrzeuge.pdb
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Fahrzeuge\Fahrzeuge\obj\Debug\net8.0\Fahrzeuge.genruntimeconfig.cache
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Fahrzeuge\Fahrzeuge\obj\Debug\net8.0\ref\Fahrzeuge.dll

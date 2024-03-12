@@ -1,0 +1,14 @@
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Bankkonto\Bankkonto\bin\Debug\net8.0\Bankkonto.exe
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Bankkonto\Bankkonto\bin\Debug\net8.0\Bankkonto.deps.json
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Bankkonto\Bankkonto\bin\Debug\net8.0\Bankkonto.runtimeconfig.json
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Bankkonto\Bankkonto\bin\Debug\net8.0\Bankkonto.dll
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Bankkonto\Bankkonto\bin\Debug\net8.0\Bankkonto.pdb
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Bankkonto\Bankkonto\obj\Debug\net8.0\Bankkonto.GeneratedMSBuildEditorConfig.editorconfig
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Bankkonto\Bankkonto\obj\Debug\net8.0\Bankkonto.AssemblyInfoInputs.cache
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Bankkonto\Bankkonto\obj\Debug\net8.0\Bankkonto.AssemblyInfo.cs
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Bankkonto\Bankkonto\obj\Debug\net8.0\Bankkonto.csproj.CoreCompileInputs.cache
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Bankkonto\Bankkonto\obj\Debug\net8.0\Bankkonto.dll
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Bankkonto\Bankkonto\obj\Debug\net8.0\refint\Bankkonto.dll
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Bankkonto\Bankkonto\obj\Debug\net8.0\Bankkonto.pdb
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Bankkonto\Bankkonto\obj\Debug\net8.0\Bankkonto.genruntimeconfig.cache
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Bankkonto\Bankkonto\obj\Debug\net8.0\ref\Bankkonto.dll

@@ -1,0 +1,11 @@
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Chat-App\ConnectionMessage\bin\Debug\net8.0\ConnectionMessage.deps.json
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Chat-App\ConnectionMessage\bin\Debug\net8.0\ConnectionMessage.dll
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Chat-App\ConnectionMessage\bin\Debug\net8.0\ConnectionMessage.pdb
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Chat-App\ConnectionMessage\obj\Debug\net8.0\ConnectionMessage.GeneratedMSBuildEditorConfig.editorconfig
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Chat-App\ConnectionMessage\obj\Debug\net8.0\ConnectionMessage.AssemblyInfoInputs.cache
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Chat-App\ConnectionMessage\obj\Debug\net8.0\ConnectionMessage.AssemblyInfo.cs
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Chat-App\ConnectionMessage\obj\Debug\net8.0\ConnectionMessage.csproj.CoreCompileInputs.cache
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Chat-App\ConnectionMessage\obj\Debug\net8.0\ConnectionMessage.dll
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Chat-App\ConnectionMessage\obj\Debug\net8.0\refint\ConnectionMessage.dll
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Chat-App\ConnectionMessage\obj\Debug\net8.0\ConnectionMessage.pdb
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\Chat-App\ConnectionMessage\obj\Debug\net8.0\ref\ConnectionMessage.dll

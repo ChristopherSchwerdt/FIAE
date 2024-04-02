@@ -1,0 +1,14 @@
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\MyAnimal\MyAnimal\bin\Debug\net8.0\MyAnimal.exe
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\MyAnimal\MyAnimal\bin\Debug\net8.0\MyAnimal.deps.json
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\MyAnimal\MyAnimal\bin\Debug\net8.0\MyAnimal.runtimeconfig.json
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\MyAnimal\MyAnimal\bin\Debug\net8.0\MyAnimal.dll
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\MyAnimal\MyAnimal\bin\Debug\net8.0\MyAnimal.pdb
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\MyAnimal\MyAnimal\obj\Debug\net8.0\MyAnimal.GeneratedMSBuildEditorConfig.editorconfig
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\MyAnimal\MyAnimal\obj\Debug\net8.0\MyAnimal.AssemblyInfoInputs.cache
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\MyAnimal\MyAnimal\obj\Debug\net8.0\MyAnimal.AssemblyInfo.cs
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\MyAnimal\MyAnimal\obj\Debug\net8.0\MyAnimal.csproj.CoreCompileInputs.cache
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\MyAnimal\MyAnimal\obj\Debug\net8.0\MyAnimal.dll
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\MyAnimal\MyAnimal\obj\Debug\net8.0\refint\MyAnimal.dll
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\MyAnimal\MyAnimal\obj\Debug\net8.0\MyAnimal.pdb
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\MyAnimal\MyAnimal\obj\Debug\net8.0\MyAnimal.genruntimeconfig.cache
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\MyAnimal\MyAnimal\obj\Debug\net8.0\ref\MyAnimal.dll

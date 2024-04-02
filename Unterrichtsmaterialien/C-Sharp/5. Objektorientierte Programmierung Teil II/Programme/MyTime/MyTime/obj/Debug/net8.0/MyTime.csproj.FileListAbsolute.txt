@@ -1,0 +1,14 @@
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\MyTime\MyTime\bin\Debug\net8.0\MyTime.exe
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\MyTime\MyTime\bin\Debug\net8.0\MyTime.deps.json
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\MyTime\MyTime\bin\Debug\net8.0\MyTime.runtimeconfig.json
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\MyTime\MyTime\bin\Debug\net8.0\MyTime.dll
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\MyTime\MyTime\bin\Debug\net8.0\MyTime.pdb
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\MyTime\MyTime\obj\Debug\net8.0\MyTime.GeneratedMSBuildEditorConfig.editorconfig
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\MyTime\MyTime\obj\Debug\net8.0\MyTime.AssemblyInfoInputs.cache
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\MyTime\MyTime\obj\Debug\net8.0\MyTime.AssemblyInfo.cs
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\MyTime\MyTime\obj\Debug\net8.0\MyTime.csproj.CoreCompileInputs.cache
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\MyTime\MyTime\obj\Debug\net8.0\MyTime.dll
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\MyTime\MyTime\obj\Debug\net8.0\refint\MyTime.dll
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\MyTime\MyTime\obj\Debug\net8.0\MyTime.pdb
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\MyTime\MyTime\obj\Debug\net8.0\MyTime.genruntimeconfig.cache
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\MyTime\MyTime\obj\Debug\net8.0\ref\MyTime.dll

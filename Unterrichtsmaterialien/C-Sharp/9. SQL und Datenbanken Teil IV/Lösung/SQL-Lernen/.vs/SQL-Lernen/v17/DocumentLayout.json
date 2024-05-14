@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\dev\\SQL-Lernen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81DE56A1-C212-4159-8DE7-12D44C45AE62}|SQL-Lernen\\SQL-Lernen.csproj|C:\\dev\\SQL-Lernen\\sql-lernen\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81DE56A1-C212-4159-8DE7-12D44C45AE62}|SQL-Lernen\\SQL-Lernen.csproj|solutionrelative:sql-lernen\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DE56A1-C212-4159-8DE7-12D44C45AE62}|SQL-Lernen\\SQL-Lernen.csproj|c:\\dev\\sql-lernen\\sql-lernen\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{81DE56A1-C212-4159-8DE7-12D44C45AE62}|SQL-Lernen\\SQL-Lernen.csproj|solutionrelative:sql-lernen\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DE56A1-C212-4159-8DE7-12D44C45AE62}|SQL-Lernen\\SQL-Lernen.csproj|c:\\dev\\sql-lernen\\sql-lernen\\logging.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81DE56A1-C212-4159-8DE7-12D44C45AE62}|SQL-Lernen\\SQL-Lernen.csproj|solutionrelative:sql-lernen\\logging.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DE56A1-C212-4159-8DE7-12D44C45AE62}|SQL-Lernen\\SQL-Lernen.csproj|c:\\dev\\sql-lernen\\sql-lernen\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81DE56A1-C212-4159-8DE7-12D44C45AE62}|SQL-Lernen\\SQL-Lernen.csproj|solutionrelative:sql-lernen\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1835977397:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\dev\\SQL-Lernen\\SQL-Lernen\\Form1.cs",
+              "RelativeDocumentMoniker": "SQL-Lernen\\Form1.cs",
+              "ToolTip": "C:\\dev\\SQL-Lernen\\SQL-Lernen\\Form1.cs",
+              "RelativeToolTip": "SQL-Lernen\\Form1.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T07:02:57.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Logging.cs",
+              "DocumentMoniker": "C:\\dev\\SQL-Lernen\\SQL-Lernen\\Logging.cs",
+              "RelativeDocumentMoniker": "SQL-Lernen\\Logging.cs",
+              "ToolTip": "C:\\dev\\SQL-Lernen\\SQL-Lernen\\Logging.cs",
+              "RelativeToolTip": "SQL-Lernen\\Logging.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAADwvxkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T10:15:24.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\dev\\SQL-Lernen\\SQL-Lernen\\Database.cs",
+              "RelativeDocumentMoniker": "SQL-Lernen\\Database.cs",
+              "ToolTip": "C:\\dev\\SQL-Lernen\\SQL-Lernen\\Database.cs",
+              "RelativeToolTip": "SQL-Lernen\\Database.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAABQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T07:03:23.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Entwurf]",
+              "DocumentMoniker": "C:\\dev\\SQL-Lernen\\SQL-Lernen\\Form1.cs",
+              "RelativeDocumentMoniker": "SQL-Lernen\\Form1.cs",
+              "ToolTip": "C:\\dev\\SQL-Lernen\\SQL-Lernen\\Form1.cs [Entwurf]",
+              "RelativeToolTip": "SQL-Lernen\\Form1.cs [Entwurf]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T09:42:48.728Z",
+              "EditorCaption": " [Entwurf]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

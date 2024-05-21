@@ -1,0 +1,8 @@
+Aufgaben 1:
+https://www.kstbb.de/informatik/rdb/01/1_4_Uebungsaufgaben.html
+Aufgaben 2:
+https://info-wsf.de/uebungsaufgaben-datenmodellierung/
+Aufgaben 3:
+https://www.iom.bwl.uni-muenchen.de/lehre/veranstaltungen/wi_uebung/tutorium_2.pdf
+Aufgaben 4:
+https://weichselbraun.net/dbs/p/exercise/er/04SERM_Aufgaben.pdf

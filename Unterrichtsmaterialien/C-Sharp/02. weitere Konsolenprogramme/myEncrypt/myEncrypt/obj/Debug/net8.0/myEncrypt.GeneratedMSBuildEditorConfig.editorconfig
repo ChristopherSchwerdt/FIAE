@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = myEncrypt
-build_property.ProjectDir = \\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\myEncrypt\myEncrypt\
+build_property.ProjectDir = \\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\FIAE\Unterrichtsmaterialien\C-Sharp\02. weitere Konsolenprogramme\myEncrypt\myEncrypt\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

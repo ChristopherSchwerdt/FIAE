@@ -1,0 +1,44 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "\\\\cwlfs\\MeineDaten$\\LuV-GS\\CSchwerdt\\Documents\\dev\\FIAE\\Unterrichtsmaterialien\\C-Sharp\\02. weitere Konsolenprogramme\\myEncrypt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01F3A6E5-AD6A-4355-ACF8-88DC8FE9C80A}|myEncrypt\\myEncrypt.csproj|\\\\cwlfs\\meinedaten$\\luv-gs\\cschwerdt\\documents\\dev\\fiae\\unterrichtsmaterialien\\c-sharp\\02. weitere konsolenprogramme\\myencrypt\\myencrypt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1442359506:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:834988138:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "\\\\cwlfs\\MeineDaten$\\LuV-GS\\CSchwerdt\\Documents\\dev\\FIAE\\Unterrichtsmaterialien\\C-Sharp\\02. weitere Konsolenprogramme\\myEncrypt\\myEncrypt\\Program.cs",
+              "RelativeDocumentMoniker": "myEncrypt\\Program.cs",
+              "ToolTip": "\\\\cwlfs\\MeineDaten$\\LuV-GS\\CSchwerdt\\Documents\\dev\\FIAE\\Unterrichtsmaterialien\\C-Sharp\\02. weitere Konsolenprogramme\\myEncrypt\\myEncrypt\\Program.cs",
+              "RelativeToolTip": "myEncrypt\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T10:44:38.189Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

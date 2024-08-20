@@ -12,3 +12,18 @@
 \\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\myHangman\myHangman\obj\Debug\net8.0\myHangman.pdb
 \\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\myHangman\myHangman\obj\Debug\net8.0\myHangman.genruntimeconfig.cache
 \\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\myHangman\myHangman\obj\Debug\net8.0\ref\myHangman.dll
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\FIAE\Projekte\myHangman\myHangman\bin\Debug\net8.0\myHangman.exe
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\FIAE\Projekte\myHangman\myHangman\bin\Debug\net8.0\myHangman.deps.json
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\FIAE\Projekte\myHangman\myHangman\bin\Debug\net8.0\myHangman.runtimeconfig.json
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\FIAE\Projekte\myHangman\myHangman\bin\Debug\net8.0\myHangman.dll
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\FIAE\Projekte\myHangman\myHangman\bin\Debug\net8.0\myHangman.pdb
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\FIAE\Projekte\myHangman\myHangman\obj\Debug\net8.0\myHangman.GeneratedMSBuildEditorConfig.editorconfig
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\FIAE\Projekte\myHangman\myHangman\obj\Debug\net8.0\myHangman.AssemblyInfoInputs.cache
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\FIAE\Projekte\myHangman\myHangman\obj\Debug\net8.0\myHangman.AssemblyInfo.cs
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\FIAE\Projekte\myHangman\myHangman\obj\Debug\net8.0\myHangman.csproj.CoreCompileInputs.cache
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\FIAE\Projekte\myHangman\myHangman\obj\Debug\net8.0\myHangman.sourcelink.json
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\FIAE\Projekte\myHangman\myHangman\obj\Debug\net8.0\myHangman.dll
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\FIAE\Projekte\myHangman\myHangman\obj\Debug\net8.0\refint\myHangman.dll
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\FIAE\Projekte\myHangman\myHangman\obj\Debug\net8.0\myHangman.pdb
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\FIAE\Projekte\myHangman\myHangman\obj\Debug\net8.0\myHangman.genruntimeconfig.cache
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\FIAE\Projekte\myHangman\myHangman\obj\Debug\net8.0\ref\myHangman.dll

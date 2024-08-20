@@ -1,0 +1,44 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "\\\\cwlfs\\MeineDaten$\\LuV-GS\\CSchwerdt\\Documents\\dev\\FIAE\\Projekte\\myHangman\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D591B03-3282-4A04-9B21-8A5BB3138D72}|myHangman\\myHangman.csproj|\\\\cwlfs\\meinedaten$\\luv-gs\\cschwerdt\\documents\\dev\\fiae\\projekte\\myhangman\\myhangman\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1442359506:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:834988138:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "\\\\cwlfs\\MeineDaten$\\LuV-GS\\CSchwerdt\\Documents\\dev\\FIAE\\Projekte\\myHangman\\myHangman\\Program.cs",
+              "RelativeDocumentMoniker": "myHangman\\Program.cs",
+              "ToolTip": "\\\\cwlfs\\MeineDaten$\\LuV-GS\\CSchwerdt\\Documents\\dev\\FIAE\\Projekte\\myHangman\\myHangman\\Program.cs",
+              "RelativeToolTip": "myHangman\\Program.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAAYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T11:37:35.264Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

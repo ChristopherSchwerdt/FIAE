@@ -1,0 +1,14 @@
+C:\Users\CSchwerdt\source\repos\FunktionenUndMethoden\FunktionenUndMethoden\bin\Debug\net8.0\FunktionenUndMethoden.exe
+C:\Users\CSchwerdt\source\repos\FunktionenUndMethoden\FunktionenUndMethoden\bin\Debug\net8.0\FunktionenUndMethoden.deps.json
+C:\Users\CSchwerdt\source\repos\FunktionenUndMethoden\FunktionenUndMethoden\bin\Debug\net8.0\FunktionenUndMethoden.runtimeconfig.json
+C:\Users\CSchwerdt\source\repos\FunktionenUndMethoden\FunktionenUndMethoden\bin\Debug\net8.0\FunktionenUndMethoden.dll
+C:\Users\CSchwerdt\source\repos\FunktionenUndMethoden\FunktionenUndMethoden\bin\Debug\net8.0\FunktionenUndMethoden.pdb
+C:\Users\CSchwerdt\source\repos\FunktionenUndMethoden\FunktionenUndMethoden\obj\Debug\net8.0\FunktionenUndMethoden.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CSchwerdt\source\repos\FunktionenUndMethoden\FunktionenUndMethoden\obj\Debug\net8.0\FunktionenUndMethoden.AssemblyInfoInputs.cache
+C:\Users\CSchwerdt\source\repos\FunktionenUndMethoden\FunktionenUndMethoden\obj\Debug\net8.0\FunktionenUndMethoden.AssemblyInfo.cs
+C:\Users\CSchwerdt\source\repos\FunktionenUndMethoden\FunktionenUndMethoden\obj\Debug\net8.0\FunktionenUndMethoden.csproj.CoreCompileInputs.cache
+C:\Users\CSchwerdt\source\repos\FunktionenUndMethoden\FunktionenUndMethoden\obj\Debug\net8.0\FunktionenUndMethoden.dll
+C:\Users\CSchwerdt\source\repos\FunktionenUndMethoden\FunktionenUndMethoden\obj\Debug\net8.0\refint\FunktionenUndMethoden.dll
+C:\Users\CSchwerdt\source\repos\FunktionenUndMethoden\FunktionenUndMethoden\obj\Debug\net8.0\FunktionenUndMethoden.pdb
+C:\Users\CSchwerdt\source\repos\FunktionenUndMethoden\FunktionenUndMethoden\obj\Debug\net8.0\FunktionenUndMethoden.genruntimeconfig.cache
+C:\Users\CSchwerdt\source\repos\FunktionenUndMethoden\FunktionenUndMethoden\obj\Debug\net8.0\ref\FunktionenUndMethoden.dll

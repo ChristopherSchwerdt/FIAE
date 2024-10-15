@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OOP_Backup")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d88b794d5a5a72cd77606be6efd1ab4c21138853")]
 [assembly: System.Reflection.AssemblyProductAttribute("OOP_Backup")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OOP_Backup")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -15,7 +15,8 @@
     }
     public int SetzeFestplattenGröße
     {
-        get { 
+        get 
+        { 
             return festplattengroeße; 
         }
         set

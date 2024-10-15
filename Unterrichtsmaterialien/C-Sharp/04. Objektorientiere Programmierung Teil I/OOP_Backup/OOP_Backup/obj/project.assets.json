@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "\\\\cwlfs\\MeineDaten$\\LuV-GS\\CSchwerdt\\Documents\\dev\\Visual Studio Projekte\\OOP_Backup\\OOP_Backup\\OOP_Backup.csproj",
+      "projectUniqueName": "\\\\cwlfs\\MeineDaten$\\LuV-GS\\CSchwerdt\\Documents\\dev\\FIAE\\Unterrichtsmaterialien\\C-Sharp\\04. Objektorientiere Programmierung Teil I\\OOP_Backup\\OOP_Backup\\OOP_Backup.csproj",
       "projectName": "OOP_Backup",
-      "projectPath": "\\\\cwlfs\\MeineDaten$\\LuV-GS\\CSchwerdt\\Documents\\dev\\Visual Studio Projekte\\OOP_Backup\\OOP_Backup\\OOP_Backup.csproj",
+      "projectPath": "\\\\cwlfs\\MeineDaten$\\LuV-GS\\CSchwerdt\\Documents\\dev\\FIAE\\Unterrichtsmaterialien\\C-Sharp\\04. Objektorientiere Programmierung Teil I\\OOP_Backup\\OOP_Backup\\OOP_Backup.csproj",
       "packagesPath": "C:\\Users\\CSchwerdt\\.nuget\\packages\\",
-      "outputPath": "\\\\cwlfs\\MeineDaten$\\LuV-GS\\CSchwerdt\\Documents\\dev\\Visual Studio Projekte\\OOP_Backup\\OOP_Backup\\obj\\",
+      "outputPath": "\\\\cwlfs\\MeineDaten$\\LuV-GS\\CSchwerdt\\Documents\\dev\\FIAE\\Unterrichtsmaterialien\\C-Sharp\\04. Objektorientiere Programmierung Teil I\\OOP_Backup\\OOP_Backup\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\CSchwerdt\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,6 +40,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -61,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

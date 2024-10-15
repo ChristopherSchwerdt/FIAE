@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "\\\\cwlfs\\MeineDaten$\\LuV-GS\\CSchwerdt\\Documents\\dev\\Visual Studio Projekte\\OOP_Computerverwaltung\\OOP_Computerverwaltung\\OOP_Computerverwaltung.csproj",
+      "projectUniqueName": "\\\\cwlfs\\MeineDaten$\\LuV-GS\\CSchwerdt\\Documents\\dev\\FIAE\\Unterrichtsmaterialien\\C-Sharp\\04. Objektorientiere Programmierung Teil I\\OOP_Computerverwaltung\\OOP_Computerverwaltung\\OOP_Computerverwaltung.csproj",
       "projectName": "OOP_Computerverwaltung",
-      "projectPath": "\\\\cwlfs\\MeineDaten$\\LuV-GS\\CSchwerdt\\Documents\\dev\\Visual Studio Projekte\\OOP_Computerverwaltung\\OOP_Computerverwaltung\\OOP_Computerverwaltung.csproj",
+      "projectPath": "\\\\cwlfs\\MeineDaten$\\LuV-GS\\CSchwerdt\\Documents\\dev\\FIAE\\Unterrichtsmaterialien\\C-Sharp\\04. Objektorientiere Programmierung Teil I\\OOP_Computerverwaltung\\OOP_Computerverwaltung\\OOP_Computerverwaltung.csproj",
       "packagesPath": "C:\\Users\\CSchwerdt\\.nuget\\packages\\",
-      "outputPath": "\\\\cwlfs\\MeineDaten$\\LuV-GS\\CSchwerdt\\Documents\\dev\\Visual Studio Projekte\\OOP_Computerverwaltung\\OOP_Computerverwaltung\\obj\\",
+      "outputPath": "\\\\cwlfs\\MeineDaten$\\LuV-GS\\CSchwerdt\\Documents\\dev\\FIAE\\Unterrichtsmaterialien\\C-Sharp\\04. Objektorientiere Programmierung Teil I\\OOP_Computerverwaltung\\OOP_Computerverwaltung\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\CSchwerdt\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,6 +40,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -61,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

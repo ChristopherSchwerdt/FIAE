@@ -1,0 +1,14 @@
+C:\Users\CSchwerdt\source\repos\IndexRowMajorOrder\IndexRowMajorOrder\bin\Debug\net8.0\IndexRowMajorOrder.exe
+C:\Users\CSchwerdt\source\repos\IndexRowMajorOrder\IndexRowMajorOrder\bin\Debug\net8.0\IndexRowMajorOrder.deps.json
+C:\Users\CSchwerdt\source\repos\IndexRowMajorOrder\IndexRowMajorOrder\bin\Debug\net8.0\IndexRowMajorOrder.runtimeconfig.json
+C:\Users\CSchwerdt\source\repos\IndexRowMajorOrder\IndexRowMajorOrder\bin\Debug\net8.0\IndexRowMajorOrder.dll
+C:\Users\CSchwerdt\source\repos\IndexRowMajorOrder\IndexRowMajorOrder\bin\Debug\net8.0\IndexRowMajorOrder.pdb
+C:\Users\CSchwerdt\source\repos\IndexRowMajorOrder\IndexRowMajorOrder\obj\Debug\net8.0\IndexRowMajorOrder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CSchwerdt\source\repos\IndexRowMajorOrder\IndexRowMajorOrder\obj\Debug\net8.0\IndexRowMajorOrder.AssemblyInfoInputs.cache
+C:\Users\CSchwerdt\source\repos\IndexRowMajorOrder\IndexRowMajorOrder\obj\Debug\net8.0\IndexRowMajorOrder.AssemblyInfo.cs
+C:\Users\CSchwerdt\source\repos\IndexRowMajorOrder\IndexRowMajorOrder\obj\Debug\net8.0\IndexRowMajorOrder.csproj.CoreCompileInputs.cache
+C:\Users\CSchwerdt\source\repos\IndexRowMajorOrder\IndexRowMajorOrder\obj\Debug\net8.0\IndexRowMajorOrder.dll
+C:\Users\CSchwerdt\source\repos\IndexRowMajorOrder\IndexRowMajorOrder\obj\Debug\net8.0\refint\IndexRowMajorOrder.dll
+C:\Users\CSchwerdt\source\repos\IndexRowMajorOrder\IndexRowMajorOrder\obj\Debug\net8.0\IndexRowMajorOrder.pdb
+C:\Users\CSchwerdt\source\repos\IndexRowMajorOrder\IndexRowMajorOrder\obj\Debug\net8.0\IndexRowMajorOrder.genruntimeconfig.cache
+C:\Users\CSchwerdt\source\repos\IndexRowMajorOrder\IndexRowMajorOrder\obj\Debug\net8.0\ref\IndexRowMajorOrder.dll

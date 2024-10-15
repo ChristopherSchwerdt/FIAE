@@ -2,6 +2,11 @@
 
 class Program
 {
+
+    //Literatur :
+    // https://en.wikipedia.org/wiki/Row-_and_column-major_order
+    // https://www.cyotek.com/blog/converting-2d-arrays-to-1d-and-accessing-as-either-2d-or-1d
+   //  https://stackoverflow.com/questions/2151084/map-a-2d-array-onto-a-1d-array
     static void Main()
     {
         // 2D Array Dimensionen

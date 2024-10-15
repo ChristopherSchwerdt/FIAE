@@ -1,0 +1,14 @@
+C:\Users\CSchwerdt\source\repos\Bücherei\Bücherei\bin\Debug\net8.0\Bücherei.exe
+C:\Users\CSchwerdt\source\repos\Bücherei\Bücherei\bin\Debug\net8.0\Bücherei.deps.json
+C:\Users\CSchwerdt\source\repos\Bücherei\Bücherei\bin\Debug\net8.0\Bücherei.runtimeconfig.json
+C:\Users\CSchwerdt\source\repos\Bücherei\Bücherei\bin\Debug\net8.0\Bücherei.dll
+C:\Users\CSchwerdt\source\repos\Bücherei\Bücherei\bin\Debug\net8.0\Bücherei.pdb
+C:\Users\CSchwerdt\source\repos\Bücherei\Bücherei\obj\Debug\net8.0\Bücherei.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CSchwerdt\source\repos\Bücherei\Bücherei\obj\Debug\net8.0\Bücherei.AssemblyInfoInputs.cache
+C:\Users\CSchwerdt\source\repos\Bücherei\Bücherei\obj\Debug\net8.0\Bücherei.AssemblyInfo.cs
+C:\Users\CSchwerdt\source\repos\Bücherei\Bücherei\obj\Debug\net8.0\Bücherei.csproj.CoreCompileInputs.cache
+C:\Users\CSchwerdt\source\repos\Bücherei\Bücherei\obj\Debug\net8.0\Bücherei.dll
+C:\Users\CSchwerdt\source\repos\Bücherei\Bücherei\obj\Debug\net8.0\refint\Bücherei.dll
+C:\Users\CSchwerdt\source\repos\Bücherei\Bücherei\obj\Debug\net8.0\Bücherei.pdb
+C:\Users\CSchwerdt\source\repos\Bücherei\Bücherei\obj\Debug\net8.0\Bücherei.genruntimeconfig.cache
+C:\Users\CSchwerdt\source\repos\Bücherei\Bücherei\obj\Debug\net8.0\ref\Bücherei.dll

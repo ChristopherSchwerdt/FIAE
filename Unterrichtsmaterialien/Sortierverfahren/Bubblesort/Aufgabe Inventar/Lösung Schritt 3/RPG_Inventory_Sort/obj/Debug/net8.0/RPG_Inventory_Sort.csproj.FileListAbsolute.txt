@@ -1,0 +1,28 @@
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\RPG_Inventory_Sort\RPG_Inventory_Sort\obj\Debug\net8.0\RPG_Inventory_Sort.GeneratedMSBuildEditorConfig.editorconfig
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\RPG_Inventory_Sort\RPG_Inventory_Sort\obj\Debug\net8.0\RPG_Inventory_Sort.AssemblyInfoInputs.cache
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\RPG_Inventory_Sort\RPG_Inventory_Sort\obj\Debug\net8.0\RPG_Inventory_Sort.AssemblyInfo.cs
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\RPG_Inventory_Sort\RPG_Inventory_Sort\obj\Debug\net8.0\RPG_Inventory_Sort.csproj.CoreCompileInputs.cache
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\RPG_Inventory_Sort\RPG_Inventory_Sort\bin\Debug\net8.0\RPG_Inventory_Sort.exe
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\RPG_Inventory_Sort\RPG_Inventory_Sort\bin\Debug\net8.0\RPG_Inventory_Sort.deps.json
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\RPG_Inventory_Sort\RPG_Inventory_Sort\bin\Debug\net8.0\RPG_Inventory_Sort.runtimeconfig.json
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\RPG_Inventory_Sort\RPG_Inventory_Sort\bin\Debug\net8.0\RPG_Inventory_Sort.dll
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\RPG_Inventory_Sort\RPG_Inventory_Sort\bin\Debug\net8.0\RPG_Inventory_Sort.pdb
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\RPG_Inventory_Sort\RPG_Inventory_Sort\obj\Debug\net8.0\RPG_Inventory_Sort.dll
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\RPG_Inventory_Sort\RPG_Inventory_Sort\obj\Debug\net8.0\refint\RPG_Inventory_Sort.dll
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\RPG_Inventory_Sort\RPG_Inventory_Sort\obj\Debug\net8.0\RPG_Inventory_Sort.pdb
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\RPG_Inventory_Sort\RPG_Inventory_Sort\obj\Debug\net8.0\RPG_Inventory_Sort.genruntimeconfig.cache
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Visual Studio Projekte\RPG_Inventory_Sort\RPG_Inventory_Sort\obj\Debug\net8.0\ref\RPG_Inventory_Sort.dll
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Unterricht\2. C#\Sortierverfahren in C#\Bubblesort\Aufgabe 2\Lösung Schritt 3\RPG_Inventory_Sort\bin\Debug\net8.0\RPG_Inventory_Sort.exe
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Unterricht\2. C#\Sortierverfahren in C#\Bubblesort\Aufgabe 2\Lösung Schritt 3\RPG_Inventory_Sort\bin\Debug\net8.0\RPG_Inventory_Sort.deps.json
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Unterricht\2. C#\Sortierverfahren in C#\Bubblesort\Aufgabe 2\Lösung Schritt 3\RPG_Inventory_Sort\bin\Debug\net8.0\RPG_Inventory_Sort.runtimeconfig.json
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Unterricht\2. C#\Sortierverfahren in C#\Bubblesort\Aufgabe 2\Lösung Schritt 3\RPG_Inventory_Sort\bin\Debug\net8.0\RPG_Inventory_Sort.dll
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Unterricht\2. C#\Sortierverfahren in C#\Bubblesort\Aufgabe 2\Lösung Schritt 3\RPG_Inventory_Sort\bin\Debug\net8.0\RPG_Inventory_Sort.pdb
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Unterricht\2. C#\Sortierverfahren in C#\Bubblesort\Aufgabe 2\Lösung Schritt 3\RPG_Inventory_Sort\obj\Debug\net8.0\RPG_Inventory_Sort.GeneratedMSBuildEditorConfig.editorconfig
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Unterricht\2. C#\Sortierverfahren in C#\Bubblesort\Aufgabe 2\Lösung Schritt 3\RPG_Inventory_Sort\obj\Debug\net8.0\RPG_Inventory_Sort.AssemblyInfoInputs.cache
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Unterricht\2. C#\Sortierverfahren in C#\Bubblesort\Aufgabe 2\Lösung Schritt 3\RPG_Inventory_Sort\obj\Debug\net8.0\RPG_Inventory_Sort.AssemblyInfo.cs
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Unterricht\2. C#\Sortierverfahren in C#\Bubblesort\Aufgabe 2\Lösung Schritt 3\RPG_Inventory_Sort\obj\Debug\net8.0\RPG_Inventory_Sort.csproj.CoreCompileInputs.cache
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Unterricht\2. C#\Sortierverfahren in C#\Bubblesort\Aufgabe 2\Lösung Schritt 3\RPG_Inventory_Sort\obj\Debug\net8.0\RPG_Inventory_Sort.dll
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Unterricht\2. C#\Sortierverfahren in C#\Bubblesort\Aufgabe 2\Lösung Schritt 3\RPG_Inventory_Sort\obj\Debug\net8.0\refint\RPG_Inventory_Sort.dll
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Unterricht\2. C#\Sortierverfahren in C#\Bubblesort\Aufgabe 2\Lösung Schritt 3\RPG_Inventory_Sort\obj\Debug\net8.0\RPG_Inventory_Sort.pdb
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Unterricht\2. C#\Sortierverfahren in C#\Bubblesort\Aufgabe 2\Lösung Schritt 3\RPG_Inventory_Sort\obj\Debug\net8.0\RPG_Inventory_Sort.genruntimeconfig.cache
+\\cwlfs\MeineDaten$\LuV-GS\CSchwerdt\Documents\dev\Unterricht\2. C#\Sortierverfahren in C#\Bubblesort\Aufgabe 2\Lösung Schritt 3\RPG_Inventory_Sort\obj\Debug\net8.0\ref\RPG_Inventory_Sort.dll

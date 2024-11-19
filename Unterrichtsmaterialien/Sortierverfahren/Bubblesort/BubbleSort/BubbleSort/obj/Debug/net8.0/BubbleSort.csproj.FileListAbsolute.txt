@@ -1,0 +1,14 @@
+\\cwlfs\MeineDaten$\LuV-GS\cschwerdt\Documents\dev\Visual Studio Projekte\BubbleSort\BubbleSort\bin\Debug\net8.0\BubbleSort.exe
+\\cwlfs\MeineDaten$\LuV-GS\cschwerdt\Documents\dev\Visual Studio Projekte\BubbleSort\BubbleSort\bin\Debug\net8.0\BubbleSort.deps.json
+\\cwlfs\MeineDaten$\LuV-GS\cschwerdt\Documents\dev\Visual Studio Projekte\BubbleSort\BubbleSort\bin\Debug\net8.0\BubbleSort.runtimeconfig.json
+\\cwlfs\MeineDaten$\LuV-GS\cschwerdt\Documents\dev\Visual Studio Projekte\BubbleSort\BubbleSort\bin\Debug\net8.0\BubbleSort.dll
+\\cwlfs\MeineDaten$\LuV-GS\cschwerdt\Documents\dev\Visual Studio Projekte\BubbleSort\BubbleSort\bin\Debug\net8.0\BubbleSort.pdb
+\\cwlfs\MeineDaten$\LuV-GS\cschwerdt\Documents\dev\Visual Studio Projekte\BubbleSort\BubbleSort\obj\Debug\net8.0\BubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+\\cwlfs\MeineDaten$\LuV-GS\cschwerdt\Documents\dev\Visual Studio Projekte\BubbleSort\BubbleSort\obj\Debug\net8.0\BubbleSort.AssemblyInfoInputs.cache
+\\cwlfs\MeineDaten$\LuV-GS\cschwerdt\Documents\dev\Visual Studio Projekte\BubbleSort\BubbleSort\obj\Debug\net8.0\BubbleSort.AssemblyInfo.cs
+\\cwlfs\MeineDaten$\LuV-GS\cschwerdt\Documents\dev\Visual Studio Projekte\BubbleSort\BubbleSort\obj\Debug\net8.0\BubbleSort.csproj.CoreCompileInputs.cache
+\\cwlfs\MeineDaten$\LuV-GS\cschwerdt\Documents\dev\Visual Studio Projekte\BubbleSort\BubbleSort\obj\Debug\net8.0\BubbleSort.dll
+\\cwlfs\MeineDaten$\LuV-GS\cschwerdt\Documents\dev\Visual Studio Projekte\BubbleSort\BubbleSort\obj\Debug\net8.0\refint\BubbleSort.dll
+\\cwlfs\MeineDaten$\LuV-GS\cschwerdt\Documents\dev\Visual Studio Projekte\BubbleSort\BubbleSort\obj\Debug\net8.0\BubbleSort.pdb
+\\cwlfs\MeineDaten$\LuV-GS\cschwerdt\Documents\dev\Visual Studio Projekte\BubbleSort\BubbleSort\obj\Debug\net8.0\BubbleSort.genruntimeconfig.cache
+\\cwlfs\MeineDaten$\LuV-GS\cschwerdt\Documents\dev\Visual Studio Projekte\BubbleSort\BubbleSort\obj\Debug\net8.0\ref\BubbleSort.dll

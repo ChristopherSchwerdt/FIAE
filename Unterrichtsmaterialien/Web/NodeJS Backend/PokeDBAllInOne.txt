@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Die Pokémon Datenbank</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+
+        header {
+            background-color: #4caf50;
+            color: white;
+            text-align: center;
+            padding: 20px 0;
+        }
+
+        .container {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+            padding: 20px;
+            justify-content: center;
+        }
+
+        .panel {
+            background-color: #ffffff;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            width: 300px;
+            padding: 15px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            text-align: center;
+        }
+
+        .panel h2 {
+            margin: 10px 0 5px;
+            font-size: 1.5em;
+        }
+
+        .panel p {
+            margin: 5px 0;
+        }
+
+        footer {
+            background-color: #4caf50;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+
+<body>
+<header>
+    <h1>Die Pokémon Datenbank</h1>
+</header>
+
+<main>
+    <div class="container">
+        <div class="panel">
+            <h2>Pikachu</h2>
+            <p><strong>Nummer:</strong> #025</p>
+            <p><strong>Typ:</strong> Elektro</p>
+            <p><strong>Attacken:</strong> Donnerblitz, Ruckzuckhieb, Eisenschweif, Agilität</p>
+        </div>
+
+        <div class="panel">
+            <h2>Glurak</h2>
+            <p><strong>Nummer:</strong> #006</p>
+            <p><strong>Typ:</strong> Feuer, Flug</p>
+            <p><strong>Attacken:</strong> Flammenwurf, Hitzekoller, Drachenklaue, Luftschnitt</p>
+        </div>
+
+        <div class="panel">
+            <h2>Bisasam</h2>
+            <p><strong>Nummer:</strong> #001</p>
+            <p><strong>Typ:</strong> Pflanze, Gift</p>
+            <p><strong>Attacken:</strong> Rasierblatt, Solarstrahl, Schlafpuder, Egelsamen</p>
+        </div>
+    </div>
+</main>
+
+<footer>
+    <p>© 2025 Die Pokémon Datenbank. Alle Rechte vorbehalten.</p>
+</footer>
+</body>
+
+</html>

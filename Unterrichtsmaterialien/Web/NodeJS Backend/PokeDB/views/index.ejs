@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+<%- include ('partials/head'); %>
+</head>
+
+<body>
+
+<%- include ('partials/header'); %>
+
+
+<main>
+
+
+    <div class="container">
+
+        <!-- Prüfe, ob Pokémon vorhanden sind -->
+        <% if (pokemons.length > 0) { %>
+            <div class="container">
+                <!-- Iteriere durch alle Pokémon des aktuellen Nutzers -->
+                <% pokemons.forEach(function(pokemon) { %>
+                    <div class="panel">
+                        <h2><%= pokemon.name %></h2>
+                        <p><strong>Nummer:</strong> #<%= pokemon.number %></p>
+                        <p><strong>Typ:</strong> <%= pokemon.type %></p>
+                        <p><strong>Attacken:</strong> <%= pokemon.attacks %></p>
+                    </div>
+                <% }); %>
+            </div>
+        <% } else { %>
+            <p>Du hast noch keine Pokémon.</p>
+        <% } %>
+
+
+    </div>
+</main>
+
+<%- include ('partials/footer'); %>
+</body>
+
+</html>

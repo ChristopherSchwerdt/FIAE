@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <title>Quiz Teilnahme</title>
+  <style>
+    body { font-family: Arial, sans-serif; padding: 20px; }
+    #quiz-block, #submitted-block { margin-top: 20px; }
+    button { padding: 10px 20px; margin: 5px; }
+    .option-text { margin: 5px 0; }
+    .error { color: red; margin-top: 10px; }
+    #quiz-block {
+      display: none;
+      max-width: 800px;
+      margin: 40px auto;
+      padding: 30px;
+      background: #f9f9f9;
+      border: 1px solid #ccc;
+      border-radius: 8px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
+    }
+  </style>
+</head>
+<body>
+  <h1 id="quiz-title">Quiz Teilnahme</h1>
+
+  <div id="join-block">
+    <label for="code">Code eingeben:</label>
+    <input id="code" placeholder="z.B. 123456">
+    <button onclick="joinQuiz()">Beitreten</button>
+    <p id="error-message" class="error"></p>
+  </div>
+
+  <div id="quiz-block" style="display:none;">
+    <h2 id="question">Bitte warten Sie auf die Freigabe der ersten Frage...</h2>
+    <div id="option-texts"></div>
+    <div id="answer-buttons"></div>
+  </div>
+
+  <div id="submitted-block" style="display:none;">
+    <p>Antwort gespeichert: <strong id="submitted-answer"></strong></p>
+    <p>Warte auf die Auswertung...</p>
+  </div>
+
+  <script src="/socket.io/socket.io.js"></script>
+  <script src="src/client.js"></script>
+</body>
+</html>

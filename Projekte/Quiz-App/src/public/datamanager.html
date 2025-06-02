@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <title>Fragenverwaltung</title>
+  <style>
+    body { font-family: Arial, sans-serif; padding: 20px; }
+    input, select, textarea, button { display: block; margin: 10px 0; padding: 8px; width: 100%; max-width: 600px; }
+    table { border-collapse: collapse; width: 100%; margin-top: 20px; }
+    th, td { border: 1px solid #ccc; padding: 8px; text-align: left; cursor: pointer; }
+    th { background-color: #f4f4f4; }
+    .actions button { margin-right: 5px; }
+  </style>
+</head>
+<body>
+  <h1>Fragenverwaltung</h1>
+
+  <h2>Neue Frage hinzufügen</h2>
+  <form id="question-form">
+    <input list="category-list" type="text" id="category" placeholder="Kategorie" required />
+    <datalist id="category-list"></datalist>
+    <textarea id="text" placeholder="Fragetext" required></textarea>
+    <input type="text" id="optionA" placeholder="Antwort A" required />
+    <input type="text" id="optionB" placeholder="Antwort B" required />
+    <input type="text" id="optionC" placeholder="Antwort C" required />
+    <input type="text" id="optionD" placeholder="Antwort D" required />
+    <select id="correct">
+      <option value="A">A</option>
+      <option value="B">B</option>
+      <option value="C">C</option>
+      <option value="D">D</option>
+    </select>
+    <button type="submit">Frage speichern</button>
+  </form>
+
+<h2>CSV-Datei importieren</h2>
+<input type="file" id="csv-file" accept=".csv" />
+<button onclick="importCSV()">CSV importieren</button>
+<h2>JSON-Datei importieren</h2>
+<input type="file" id="import-file" accept=".json" />
+<button onclick="ImportJSON()">JSON importieren</button>
+
+  <h2>Fragenkatalog</h2>
+  <table id="question-table">
+    <thead>
+      <tr>
+        <th onclick="sortTable('category')">Kategorie</th>
+        <th onclick="sortTable('text')">Frage</th>
+        <th onclick="sortTable('correct')">Korrekte Antwort</th>
+        <th>Aktionen</th>
+      </tr>
+    </thead>
+    <tbody></tbody>
+  </table>
+
+  <script>
+    let editingId = null;
+    let currentData = [];
+    let sortKey = null;
+    let sortAsc = true;
+
+    async function fetchQuestions() {
+      const res = await fetch('/api/questions');
+      return await res.json();
+    }
+
+    async function postQuestion(question) {
+      await fetch('/api/questions', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(question)
+      });
+    }
+
+    async function updateQuestion(id, question) {
+      await fetch(`/api/questions/${id}`, {
+        method: 'PUT',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(question)
+      });
+    }
+
+    async function deleteQuestionById(id) {
+      await fetch(`/api/questions/${id}`, { method: 'DELETE' });
+    }
+
+    async function loadAndRenderQuestions() {
+      const questions = await fetchQuestions();
+      currentData = questions;
+      renderTable();
+      populateCategoryList();
+    }
+
+    function renderTable() {
+      const tbody = document.querySelector('#question-table tbody');
+      tbody.innerHTML = '';
+      const data = [...currentData];
+      if (sortKey) {
+        data.sort((a, b) => {
+          const valA = a[sortKey].toLowerCase();
+          const valB = b[sortKey].toLowerCase();
+          if (valA < valB) return sortAsc ? -1 : 1;
+          if (valA > valB) return sortAsc ? 1 : -1;
+          return 0;
+        });
+      }
+      data.forEach((q) => {
+        const tr = document.createElement('tr');
+        tr.innerHTML = `
+          <td>${q.category}</td>
+          <td>${q.text}</td>
+          <td>${q.correct}</td>
+          <td class="actions">
+            <button onclick='editQuestion(${JSON.stringify(q)})'>Bearbeiten</button>
+            <button onclick='handleDelete(${q.id})'>Löschen</button>
+          </td>
+        `;
+        tbody.appendChild(tr);
+      });
+    }
+
+    function populateCategoryList() {
+      const datalist = document.getElementById('category-list');
+      const categories = [...new Set(currentData.map(q => q.category))].sort();
+      datalist.innerHTML = categories.map(cat => `<option value="${cat}">`).join('');
+    }
+
+    async function handleDelete(id) {
+      if (confirm('Frage wirklich löschen?')) {
+        await deleteQuestionById(id);
+        await loadAndRenderQuestions();
+      }
+    }
+
+    function editQuestion(q) {
+      editingId = q.id;
+      document.getElementById('category').value = q.category;
+      document.getElementById('text').value = q.text;
+      document.getElementById('optionA').value = q.optionA;
+      document.getElementById('optionB').value = q.optionB;
+      document.getElementById('optionC').value = q.optionC;
+      document.getElementById('optionD').value = q.optionD;
+      document.getElementById('correct').value = q.correct;
+      const questionform = document.getElementById("question-form");
+      questionform.scrollIntoView({ behavior: "instant", block: "end" });
+    }
+
+    function sortTable(key) {
+      if (sortKey === key) {
+        sortAsc = !sortAsc;
+      } else {
+        sortKey = key;
+        sortAsc = true;
+      }
+      renderTable();
+    }
+
+  async function ImportJSON() {
+  const fileInput = document.getElementById('import-file');
+  const file = fileInput.files[0];
+  if (!file) return alert('Bitte eine JSON-Datei auswählen.');
+
+  const text = await file.text();
+  try {
+    const json = JSON.parse(text);
+    for (const entry of json) {
+      if (entry.category && entry.text && entry.optionA && entry.optionB && entry.optionC && entry.optionD && entry.correct) {
+        await postQuestion(entry);
+      }
+    }
+  } catch (e) {
+    alert('Fehler beim Parsen der JSON-Datei.');
+    return;
+  }
+  await loadAndRenderQuestions();
+  fileInput.value = '';
+};
+  
+    async function importCSV() {
+      const fileInput = document.getElementById('csv-file');
+      const file = fileInput.files[0];
+      if (!file) return alert('Bitte eine CSV-Datei auswählen.');
+
+      const text = await file.text();
+      const lines = text.split('\n').filter(Boolean);
+      const headers = lines.shift().split(',');
+
+      for (const line of lines) {
+        const values = line.split(',');
+        const entry = {};
+        headers.forEach((key, i) => entry[key.trim()] = values[i]?.trim());
+        if (entry.category && entry.text && entry.optionA && entry.optionB && entry.optionC && entry.optionD && entry.correct) {
+          await postQuestion(entry);
+        }
+      }
+
+      await loadAndRenderQuestions();
+      fileInput.value = '';
+    }
+
+    
+    document.getElementById('question-form').addEventListener('submit', async function(e) {
+      e.preventDefault();
+      const question = {
+        category: document.getElementById('category').value,
+        text: document.getElementById('text').value,
+        optionA: document.getElementById('optionA').value,
+        optionB: document.getElementById('optionB').value,
+        optionC: document.getElementById('optionC').value,
+        optionD: document.getElementById('optionD').value,
+        correct: document.getElementById('correct').value
+      };
+
+      if (editingId) {
+        await updateQuestion(editingId, question);
+        editingId = null;
+      } else {
+        await postQuestion(question);
+      }
+
+      await loadAndRenderQuestions();
+      this.reset();
+    });
+
+    loadAndRenderQuestions();
+  </script>
+</body>
+</html>

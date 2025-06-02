@@ -1,0 +1,14 @@
+category,text,optionA,optionB,optionC,optionD,correct
+Datenbanken,Was ist ein Primärschlüssel?,Ein eindeutiges Attribut,Ein Fremdschlüssel,Eine Tabelle,Ein Index,A
+Datenbanken,Wofür steht SQL?,Structured Query Language,Simple Question Language,Structured Question Log,Simple Query Logic,A
+Datenbanken,Was ist eine relationale Datenbank?,Eine datenbankbasierte Beziehung,Ein Modell mit Tabellen,Ein NoSQL-System,Ein Speicherort,B
+Datenbanken,Was macht ein Fremdschlüssel?,Verbindet Tabellen,Löscht Datensätze,Erstellt Tabellen,Speichert Dateien,A
+Datenbanken,Was ist eine Normalform?,Regel zur Datenstrukturierung,Art der Datentypen,Formatierung von SQL,Name eines Entwicklers,A
+Datenbanken,Welche SQL-Anweisung liest Daten aus?,INSERT,DELETE,SELECT,UPDATE,C
+Datenbanken,Was bedeutet 'JOIN' in SQL?,Tabelle löschen,Spalten zusammenfügen,Tabellen verknüpfen,Index erstellen,C
+Datenbanken,Was bewirkt 'DELETE FROM ...'?,Tabelle löschen,Einträge löschen,Feld löschen,Spalte entfernen,B
+Datenbanken,Was ist ein Index in einer Datenbank?,Tabelle,Beziehung,Suchhilfe,Backup,C
+Datenbanken,Was beschreibt die 1. Normalform?,Keine doppelten Tabellen,Keine Nullwerte,Nur atomare Werte,Nur Fremdschlüssel,C
+Datenbanken,Was ist ein ER-Diagramm?,Ein SQL-Befehl,Ein Tabellenlayout,Ein Entwurf zur Datenmodellierung,Ein Layout für Tabellen,C
+Datenbanken,Was ist ein Attribut?,Tabellenname,Spaltenbezeichnung,Datentyp,Indexname,B
+Datenbanken,Was ist ein Tupel?,Tabellenstruktur,Eine Bedingung,Ein Datensatz,Ein Index,C

@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <title>Quiz Admin Panel</title>
+  <style>
+    body { font-family: Arial, sans-serif; padding: 20px; }
+    button { margin: 5px; padding: 10px 15px; }
+    select, input { padding: 5px; margin: 5px; }
+    .option-line { margin: 5px 0; }
+    .correct { font-weight: bold; color: green; }
+    .info-bar { display: none; justify-content: space-between; align-items: center; flex-wrap: wrap; }
+     #question-block {
+      display: none;
+      max-width: 800px;
+      margin: 40px auto;
+      padding: 30px;
+      background: #f9f9f9;
+      border: 1px solid #ccc;
+      border-radius: 8px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
+    }
+    
+
+
+  </style>
+</head>
+<body>
+  
+  <div class="verbindungsbar">
+    <label for="category">Quiz auswählen:</label>
+    <select id="category"></select>
+    <button id="start-btn" onclick="startQuiz()">Raum öffnen</button>
+    <p><strong>Lokale IP:</strong> <span id="local-ip">wird geladen...</span>:3000/client.html</p>
+    <p><strong>Code:</strong> <span id="code-display">---</span></p>
+    <p><strong>Teilnehmer:</strong> <span id="client-count">0</span></p>
+  </div>
+
+  <div class="info-bar">
+    <p><strong>Antworten:</strong> <span id="answer-count">0</span> / <span id="client-count">0</span></p>
+    <p><strong>Frage:</strong> <span id="current-question">0</span> / <span id="total-questions">0</span></p>
+  </div>
+
+  <div id="question-block" style="display:none;">
+    <h3 id="question-text"></h3>
+    <ul id="results-list"></ul>
+    <button onclick="revealVotes()">Antworten zeigen</button>
+    <button id="reveal-btn" onclick="showResults()">Lösung anzeigen</button>
+    <button id="nextquestion-btn" onclick="showNextQuestion()">Nächste Frage</button>
+  </div>
+
+  <script src="/socket.io/socket.io.js"></script>
+  <script src="src/host.js"></script>
+</body>
+</html>

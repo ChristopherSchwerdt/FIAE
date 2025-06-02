@@ -1,0 +1,137 @@
+[
+  {
+    "category": "C#",
+    "text": "Welche Ausgabe liefert der Ausdruck: Console.WriteLine(5 + \"5\");?",
+    "optionA": "10",
+    "optionB": "55",
+    "optionC": "Fehler",
+    "optionD": "Keine Ausgabe",
+    "correct": "B"
+  },
+  {
+    "category": "C#",
+    "text": "Welche Schleife wird mindestens einmal durchlaufen?",
+    "optionA": "for",
+    "optionB": "while",
+    "optionC": "do-while",
+    "optionD": "foreach",
+    "correct": "C"
+  },
+  {
+    "category": "C#",
+    "text": "Was ist das Ergebnis von: int x = 10; x += x++;?",
+    "optionA": "20",
+    "optionB": "21",
+    "optionC": "22",
+    "optionD": "Fehler",
+    "correct": "B"
+  },
+  {
+    "category": "C#",
+    "text": "Was passiert bei folgender Anweisung: int[] arr = new int[-5];?",
+    "optionA": "Array mit 5 Elementen",
+    "optionB": "Fehler zur Laufzeit",
+    "optionC": "Fehler zur Kompilierzeit",
+    "optionD": "Leeres Array",
+    "correct": "C"
+  },
+  {
+    "category": "C#",
+    "text": "Was ergibt: string s = null; Console.WriteLine(s ?? \"leer\");?",
+    "optionA": "null",
+    "optionB": "leer",
+    "optionC": "Fehler",
+    "optionD": "s",
+    "correct": "B"
+  },
+  {
+    "category": "C#",
+    "text": "Was ist das Ergebnis von: true && false || true?",
+    "optionA": "true",
+    "optionB": "false",
+    "optionC": "Fehler",
+    "optionD": "null",
+    "correct": "A"
+  },
+  {
+    "category": "C#",
+    "text": "Welche Datentypen sind Wertetypen?",
+    "optionA": "string",
+    "optionB": "int",
+    "optionC": "object",
+    "optionD": "dynamic",
+    "correct": "B"
+  },
+  {
+    "category": "C#",
+    "text": "Was macht die Anweisung: var result = (object)5;",
+    "optionA": "Boxing",
+    "optionB": "Unboxing",
+    "optionC": "Casting Error",
+    "optionD": "Compile-Time Fehler",
+    "correct": "A"
+  },
+  {
+    "category": "C#",
+    "text": "Was wird ausgegeben: Console.WriteLine(0.1 + 0.2 == 0.3);?",
+    "optionA": "true",
+    "optionB": "false",
+    "optionC": "Fehler",
+    "optionD": "0.3",
+    "correct": "B"
+  },
+  {
+    "category": "C#",
+    "text": "Was passiert bei: List<int> list = null; list.Add(1);?",
+    "optionA": "Nichts",
+    "optionB": "Fehler zur Kompilierzeit",
+    "optionC": "NullReferenceException",
+    "optionD": "1 wird hinzugefügt",
+    "correct": "C"
+  },
+  {
+    "category": "C#",
+    "text": "Was gibt folgender Code aus? int x = 3; Console.WriteLine(x << 1);",
+    "optionA": "1",
+    "optionB": "6",
+    "optionC": "4",
+    "optionD": "3",
+    "correct": "B"
+  },
+  {
+    "category": "C#",
+    "text": "Wie nennt man eine Methode, die sich selbst aufruft?",
+    "optionA": "Iteration",
+    "optionB": "Rekursion",
+    "optionC": "Delegation",
+    "optionD": "Abstraktion",
+    "correct": "B"
+  },
+  {
+    "category": "C#",
+    "text": "Was ist ein korrektes Schlüsselwort für eine Ausnahmebehandlung?",
+    "optionA": "try",
+    "optionB": "handle",
+    "optionC": "exception",
+    "optionD": "check",
+    "correct": "A"
+  },
+  {
+    "category": "C#",
+    "text": "Was bedeutet 'sealed' in einer Klassendefinition?",
+    "optionA": "Die Klasse kann nicht instanziiert werden",
+    "optionB": "Die Klasse kann nicht geerbt werden",
+    "optionC": "Die Klasse ist abstrakt",
+    "optionD": "Die Klasse ist generisch",
+    "correct": "B"
+  },
+  {
+    "category": "C#",
+    "text": "Was ist das Ergebnis von: int[] a = {1, 2, 3}; Console.WriteLine(a[3]);?",
+    "optionA": "3",
+    "optionB": "Fehler",
+    "optionC": "0",
+    "optionD": "Undefined",
+    "correct": "B"
+  }
+]
